@@ -1,0 +1,27 @@
+# MAGICBLAST 1.3.0
+# magicblast -sra ERR1631194 -db snp_flanks -out /home/ubuntu/test/out/ERS1349651/mbo/ERR1631194.mbo -outfmt tabular -parse_deflines T -num_threads 1 -no_unaligned -splice F 
+# Fields: query acc.	reference acc.	% identity	not used	not used	not used	query start	query end	reference start	reference end	not used	not used	score	query strand	reference strand	query length	BTOP	num placements	not used	compartment	left overhang	right overhang	mate reference	mate ref. start	composite score
+ERR1631194.36212.1	2	100	0	0	0	1	25	25	1	0	99	25	plus	minus	43	25	1	-	1:0	-	GGCGGCGGGTGGGGGGCT	-	-	25
+ERR1631194.163006.1	112	100	0	0	0	1	27	30	4	0	99	27	plus	minus	43	27	1	-	1:1	-	CTTGATGGCCTCTTCT	-	-	27
+ERR1631194.199125.1	169	96.7742	0	0	0	13	43	1	31	0	99	26	plus	plus	43	6GT24	1	-	1:2	TTCCACCAGGTG	-	-	-	26
+ERR1631194.205203.1	2	97.2222	0	0	0	1	36	36	1	0	99	31	plus	minus	43	10TC25	1	-	1:3	-	GGCGGCG	-	-	31
+ERR1631194.212267.1	112	100	0	0	0	1	39	13	51	0	99	39	plus	plus	43	39	1	-	1:4	-	TGCT	-	-	39
+ERR1631194.303928.1	170	100	0	0	0	7	30	50	27	0	99	24	plus	minus	43	24	1	-	1:5	TGGGGC	GGGGCTTGGCTGT	-	-	24
+ERR1631194.517921.1	2	97.1429	0	0	0	1	35	36	2	0	99	30	plus	minus	43	10TC24	1	-	2:0	-	CTGTCTCT	-	-	30
+ERR1631194.550418.1	170	97.619	0	0	0	1	42	9	50	0	99	37	plus	plus	43	17CT24	1	-	2:1	-	T	-	-	37
+ERR1631194.550498.1	112	100	0	0	0	1	20	32	51	0	99	20	plus	plus	43	20	1	-	2:2	-	TGCTGCCGCTGCTGGCCCTCTGG	-	-	20
+ERR1631194.551008.1	126	100	0	0	0	1	20	5	24	0	99	20	plus	plus	43	20	1	-	2:3	-	AAAAAAAAAAAAAAAAAAAAAAA	-	-	20
+ERR1631194.553269.1	169	100	0	0	0	2	43	10	51	0	99	42	plus	plus	43	42	1	-	2:4	A	-	-	-	42
+ERR1631194.557831.1	126	100	0	0	0	1	22	22	1	0	99	22	plus	minus	43	22	1	-	2:5	-	GCTATAGGGTAAATACGGGCC	-	-	22
+ERR1631194.558340.1	169	100	0	0	0	7	43	1	37	0	99	37	plus	plus	43	37	1	-	2:6	TTCCAC	-	-	-	37
+ERR1631194.560310.1	170	97.6744	0	0	0	1	43	7	49	0	99	38	plus	plus	43	19CT23	1	-	2:7	-	-	-	-	38
+ERR1631194.563983.1	157	97.6744	0	0	0	1	43	3	45	0	99	38	plus	plus	43	23CG19	1	-	2:8	-	-	-	-	38
+ERR1631194.567975.1	112	100	0	0	0	9	43	4	38	0	99	35	plus	plus	43	35	1	-	2:9	CTTGATGG	-	-	-	35
+ERR1631194.568130.1	169	100	0	0	0	1	36	6	41	0	99	36	plus	plus	43	36	1	-	2:10	-	CTGTCTC	-	-	36
+ERR1631194.570904.1	2	100	0	0	0	5	29	25	1	0	99	25	plus	minus	43	25	1	-	2:11	AGCC	GGCGGCGGGTGGGG	-	-	25
+ERR1631194.573207.1	112	100	0	0	0	1	43	6	48	0	99	43	plus	plus	43	43	1	-	2:12	-	-	-	-	43
+ERR1631194.573264.1	2	97.2222	0	0	0	1	36	36	1	0	99	31	plus	minus	43	10TC25	1	-	2:13	-	GGTGGCG	-	-	31
+ERR1631194.573818.1	112	100	0	0	0	4	43	4	43	0	99	40	plus	plus	43	40	1	-	2:14	ATT	-	-	-	40
+ERR1631194.574325.1	169	100	0	0	0	4	43	4	43	0	99	40	plus	plus	43	40	1	-	2:15	CGC	-	-	-	40
+ERR1631194.579560.1	169	100	0	0	0	13	43	1	31	0	99	31	plus	plus	43	31	1	-	2:16	TTCCACCAGGTG	-	-	-	31
+ERR1631194.582358.1	112	100	0	0	0	1	41	11	51	0	99	41	plus	plus	43	41	1	-	2:17	-	TG	-	-	41

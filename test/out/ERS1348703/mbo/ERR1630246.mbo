@@ -1,0 +1,20 @@
+# MAGICBLAST 1.3.0
+# magicblast -sra ERR1630246 -db snp_flanks -out /home/ubuntu/test/out/ERS1348703/mbo/ERR1630246.mbo -outfmt tabular -parse_deflines T -num_threads 1 -no_unaligned -splice F 
+# Fields: query acc.	reference acc.	% identity	not used	not used	not used	query start	query end	reference start	reference end	not used	not used	score	query strand	reference strand	query length	BTOP	num placements	not used	compartment	left overhang	right overhang	mate reference	mate ref. start	composite score
+ERR1630246.11940.1	112	100	0	0	0	17	43	4	30	0	99	27	plus	plus	43	27	1	-	1:0	CTTGATGGCCTCTTCT	-	-	-	27
+ERR1630246.58418.1	169	100	0	0	0	1	43	3	45	0	99	43	plus	plus	43	43	1	-	1:1	-	-	-	-	43
+ERR1630246.86500.1	157	97.6744	0	0	0	1	43	3	45	0	99	38	plus	plus	43	23CG19	1	-	1:2	-	-	-	-	38
+ERR1630246.133030.1	169	100	0	0	0	1	43	51	9	0	99	43	plus	minus	43	43	1	-	1:3	-	-	-	-	43
+ERR1630246.141620.1	169	100	0	0	0	2	43	1	42	0	99	42	plus	plus	43	42	1	-	1:4	T	-	-	-	42
+ERR1630246.210264.1	169	100	0	0	0	11	43	1	33	0	99	33	plus	plus	43	33	1	-	1:5	TTCCACCAGG	-	-	-	33
+ERR1630246.213164.1	112	100	0	0	0	1	38	14	51	0	99	38	plus	plus	43	38	2	-	1:6	-	TGCTG	-	-	38
+ERR1630246.213164.1	157	97.6744	0	0	0	1	43	1	43	0	99	38	plus	plus	43	25CG17	2	-	1:7	-	-	-	-	38
+ERR1630246.216353.1	170	97.0588	0	0	0	1	34	17	50	0	99	29	plus	plus	43	9CT24	1	-	1:8	-	TGGGGCAGG	-	-	29
+ERR1630246.218033.1	169	97.2973	0	0	0	1	37	3	39	0	99	32	plus	plus	43	24CA12	1	-	1:9	-	CTGTCT	-	-	32
+ERR1630246.236593.1	169	100	0	0	0	1	41	41	1	0	99	41	plus	minus	43	41	1	-	1:10	-	TT	-	-	41
+ERR1630246.243683.1	169	100	0	0	0	1	43	3	45	0	99	43	plus	plus	43	43	1	-	1:11	-	-	-	-	43
+ERR1630246.262695.1	112	100	0	0	0	1	35	40	6	0	99	35	plus	minus	43	35	1	-	1:12	-	CTGTCTCT	-	-	35
+ERR1630246.309832.1	169	100	0	0	0	1	43	6	48	0	99	43	plus	plus	43	43	1	-	1:13	-	-	-	-	43
+ERR1630246.328875.1	2	100	0	0	0	6	27	22	1	0	99	22	plus	minus	43	22	1	-	1:14	GAAAG	GGCGGCGGGTGGGGGG	-	-	22
+ERR1630246.330295.1	169	100	0	0	0	1	43	6	48	0	99	43	plus	plus	43	43	1	-	1:15	-	-	-	-	43
+ERR1630246.339272.1	157	96.7742	0	0	0	1	31	21	51	0	99	26	plus	plus	43	5CG25	1	-	1:16	-	GGCCCTCTGGGG	-	-	26

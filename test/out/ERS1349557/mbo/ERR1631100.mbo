@@ -1,0 +1,7 @@
+# MAGICBLAST 1.3.0
+# magicblast -sra ERR1631100 -db snp_flanks -out /home/ubuntu/test/out/ERS1349557/mbo/ERR1631100.mbo -outfmt tabular -parse_deflines T -num_threads 1 -no_unaligned -splice F 
+# Fields: query acc.	reference acc.	% identity	not used	not used	not used	query start	query end	reference start	reference end	not used	not used	score	query strand	reference strand	query length	BTOP	num placements	not used	compartment	left overhang	right overhang	mate reference	mate ref. start	composite score
+ERR1631100.106543.1	169	100	0	0	0	8	43	1	36	0	99	36	plus	plus	43	36	1	-	1:0	TTCCAAC	-	-	-	36
+ERR1631100.342522.1	170	100	0	0	0	1	23	28	50	0	99	23	plus	plus	43	23	1	-	1:1	-	TGGGGCAGGTGGAGCTGGGC	-	-	23
+ERR1631100.344504.1	126	100	0	0	0	22	41	1	20	0	99	20	plus	plus	43	20	1	-	1:2	GCTATAGGGTAAATACGGGCC	CT	-	-	20
+ERR1631100.355133.1	126	100	0	0	0	8	31	1	24	0	99	24	plus	plus	43	24	1	-	1:3	GCTATAG	AATAAAAAAAAA	-	-	24

@@ -1,0 +1,18 @@
+# MAGICBLAST 1.3.0
+# magicblast -sra ERR1632655 -db snp_flanks -out /home/ubuntu/test/out/ERS1351112/mbo/ERR1632655.mbo -outfmt tabular -parse_deflines T -num_threads 1 -no_unaligned -splice F 
+# Fields: query acc.	reference acc.	% identity	not used	not used	not used	query start	query end	reference start	reference end	not used	not used	score	query strand	reference strand	query length	BTOP	num placements	not used	compartment	left overhang	right overhang	mate reference	mate ref. start	composite score
+ERR1632655.5886.1	126	100	0	0	0	15	36	22	1	0	99	22	plus	minus	43	22	1	-	1:0	TCAAAAAAAAAAAA	GCTATAG	-	-	22
+ERR1632655.19290.1	57	100	0	0	0	1	43	50	8	0	99	43	plus	minus	43	43	1	-	1:1	-	-	-	-	43
+ERR1632655.24557.1	139	97.5	0	0	0	1	40	12	51	0	99	35	plus	plus	43	14CG25	1	-	1:2	-	TGG	-	-	35
+ERR1632655.34025.1	126	100	0	0	0	22	43	1	22	0	99	22	plus	plus	43	22	1	-	1:3	GCTATAGGGTAAATACGGGCC	-	-	-	22
+ERR1632655.35456.1	142	96.9697	0	0	0	7	39	1	33	0	99	28	plus	plus	43	25CT7	1	-	1:4	CCTGGC	GATC	-	-	28
+ERR1632655.47598.1	191	95.3488	0	0	0	1	43	7	49	0	99	33	plus	plus	43	15TA3CT23	1	-	1:5	-	-	-	-	33
+ERR1632655.55913.1	126	100	0	0	0	1	20	20	1	0	99	20	plus	minus	43	20	1	-	1:6	-	GCTATAGGGTCTGTCTCTTATAC	-	-	20
+ERR1632655.62863.1	140	97.2222	0	0	0	8	43	1	36	0	99	31	plus	plus	43	24AG11	1	-	1:7	GGCTGCC	-	-	-	31
+ERR1632655.87149.1	126	100	0	0	0	1	20	20	1	0	99	20	plus	minus	43	20	1	-	1:8	-	GCTATAGGGTAAATAATTTTTTT	-	-	20
+ERR1632655.89135.1	126	100	0	0	0	1	23	23	1	0	99	23	plus	minus	43	23	1	-	1:9	-	GCTATAGCTGTCTCTTATAC	-	-	23
+ERR1632655.96510.1	126	100	0	0	0	1	20	20	1	0	99	20	plus	minus	43	20	1	-	1:10	-	GCTATAGGGTAAATACTGTCTCT	-	-	20
+ERR1632655.107475.1	66	100	0	0	0	1	34	18	51	0	99	34	plus	plus	43	34	1	-	1:11	-	TTCAAGTAC	-	-	34
+ERR1632655.114575.1	126	100	0	0	0	1	23	23	1	0	99	23	plus	minus	43	23	1	-	1:12	-	GCTATAGGGTAAATACTGTC	-	-	23
+ERR1632655.121113.1	72	100	0	0	0	1	35	35	1	0	99	35	plus	minus	43	35	1	-	1:13	-	CTCATTGT	-	-	35
+ERR1632655.127272.1	126	100	0	0	0	1	23	23	1	0	99	23	plus	minus	43	23	1	-	1:14	-	GCTATAGGGTAAATACTGTC	-	-	23

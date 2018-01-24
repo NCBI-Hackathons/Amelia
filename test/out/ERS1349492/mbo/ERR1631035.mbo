@@ -1,0 +1,14 @@
+# MAGICBLAST 1.3.0
+# magicblast -sra ERR1631035 -db snp_flanks -out /home/ubuntu/test/out/ERS1349492/mbo/ERR1631035.mbo -outfmt tabular -parse_deflines T -num_threads 1 -no_unaligned -splice F 
+# Fields: query acc.	reference acc.	% identity	not used	not used	not used	query start	query end	reference start	reference end	not used	not used	score	query strand	reference strand	query length	BTOP	num placements	not used	compartment	left overhang	right overhang	mate reference	mate ref. start	composite score
+ERR1631035.70184.1	2	100	0	0	0	4	28	25	1	0	99	25	plus	minus	43	25	1	-	1:0	CGC	GGCGGCGGGTGTGGG	-	-	25
+ERR1631035.76510.1	169	100	0	0	0	1	43	50	8	0	99	43	plus	minus	43	43	1	-	1:1	-	-	-	-	43
+ERR1631035.144780.1	2	100	0	0	0	1	22	22	1	0	99	22	plus	minus	43	22	1	-	1:2	-	GGCGGCGGGTGTGGGGCTGCC	-	-	22
+ERR1631035.147438.1	170	95.3488	0	0	0	1	43	7	49	0	99	33	plus	plus	43	19CT6TA16	1	-	1:3	-	-	-	-	33
+ERR1631035.147922.1	169	100	0	0	0	8	43	1	36	0	99	36	plus	plus	43	36	1	-	1:4	TTCCACC	-	-	-	36
+ERR1631035.148382.1	2	97.2222	0	0	0	1	36	36	1	0	99	31	plus	minus	43	10TC25	1	-	1:5	-	GGCGGCG	-	-	31
+ERR1631035.148597.1	112	100	0	0	0	1	37	15	51	0	99	37	plus	plus	43	37	1	-	1:6	-	TGCTAG	-	-	37
+ERR1631035.150421.1	112	100	0	0	0	3	43	5	45	0	99	41	plus	plus	43	41	1	-	1:7	AC	-	-	-	41
+ERR1631035.152635.1	169	100	0	0	0	1	43	4	46	0	99	43	plus	plus	43	43	1	-	1:8	-	-	-	-	43
+ERR1631035.152842.1	170	97.561	0	0	0	1	41	10	50	0	99	36	plus	plus	43	16CT24	1	-	1:9	-	TG	-	-	36
+ERR1631035.153174.1	170	97.0588	0	0	0	1	34	17	50	0	99	29	plus	plus	43	9CT24	1	-	1:10	-	TGGGGCAGG	-	-	29

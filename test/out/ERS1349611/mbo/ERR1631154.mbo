@@ -1,0 +1,21 @@
+# MAGICBLAST 1.3.0
+# magicblast -sra ERR1631154 -db snp_flanks -out /home/ubuntu/test/out/ERS1349611/mbo/ERR1631154.mbo -outfmt tabular -parse_deflines T -num_threads 1 -no_unaligned -splice F 
+# Fields: query acc.	reference acc.	% identity	not used	not used	not used	query start	query end	reference start	reference end	not used	not used	score	query strand	reference strand	query length	BTOP	num placements	not used	compartment	left overhang	right overhang	mate reference	mate ref. start	composite score
+ERR1631154.106135.1	169	96.875	0	0	0	1	32	39	8	0	99	27	plus	minus	43	7CA24	1	-	1:0	-	CGCGAGATTCC	-	-	27
+ERR1631154.143135.1	126	100	0	0	0	1	23	23	1	0	99	23	plus	minus	43	23	1	-	1:1	-	GCTATAGGGTAAATACGGGC	-	-	23
+ERR1631154.158215.1	169	100	0	0	0	1	36	6	41	0	99	36	plus	plus	43	36	1	-	1:2	-	CTGTCTC	-	-	36
+ERR1631154.163716.1	112	100	0	0	0	1	43	6	48	0	99	43	plus	plus	43	43	1	-	1:3	-	-	-	-	43
+ERR1631154.182843.1	169	100	0	0	0	12	43	51	20	0	99	32	plus	minus	43	32	1	-	1:4	CGCCGGGAGGC	-	-	-	32
+ERR1631154.186669.1	157	97.3684	0	0	0	1	38	14	51	0	99	33	plus	plus	43	12CG25	1	-	1:5	-	GGCCC	-	-	33
+ERR1631154.192511.1	121	100	0	0	0	4	28	25	1	0	99	25	plus	minus	43	25	1	-	1:6	AAC	ATGCTTTGTTTCTGT	-	-	25
+ERR1631154.297167.1	170	97.561	0	0	0	3	43	4	44	0	99	36	plus	plus	43	22CT18	1	-	1:7	AC	-	-	-	36
+ERR1631154.310109.1	169	100	0	0	0	12	43	51	20	0	99	32	plus	minus	43	32	1	-	1:8	CGCCGGGAGGC	-	-	-	32
+ERR1631154.316095.1	169	97.3684	0	0	0	4	41	38	1	0	99	33	plus	minus	43	6CA31	1	-	1:9	AAC	TT	-	-	33
+ERR1631154.316612.1	121	100	0	0	0	4	28	25	1	0	99	25	plus	minus	43	25	1	-	1:10	AAC	ATGCTTTGTTTCTGT	-	-	25
+ERR1631154.317383.1	126	100	0	0	0	1	23	23	1	0	99	23	plus	minus	43	23	1	-	1:11	-	GCTATAGGGTAAATACGGGC	-	-	23
+ERR1631154.317564.1	157	97.2973	0	0	0	3	39	15	51	0	99	32	plus	plus	43	11CG25	1	-	1:12	GC	GGCC	-	-	32
+ERR1631154.322273.1	157	100	0	0	0	1	24	28	51	0	99	24	plus	plus	43	24	1	-	1:13	-	GGCCCTCTGGGGACCTGAC	-	-	24
+ERR1631154.323606.1	169	100	0	0	0	1	43	1	43	0	99	43	plus	plus	43	43	1	-	1:14	-	-	-	-	43
+ERR1631154.324727.1	157	96.7742	0	0	0	13	43	51	21	0	99	26	plus	minus	43	25GC5	1	-	1:15	GGCCCTCTGGGG	-	-	-	26
+ERR1631154.325181.1	157	100	0	0	0	1	24	28	51	0	99	24	plus	plus	43	24	1	-	1:16	-	GGCCCTCTGGGGACCTGAC	-	-	24
+ERR1631154.327857.1	2	100	0	0	0	4	28	25	1	0	99	25	plus	minus	43	25	1	-	1:17	AGC	GGCGGCGGGTGTGGG	-	-	25

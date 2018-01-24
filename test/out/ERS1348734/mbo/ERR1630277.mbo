@@ -1,0 +1,26 @@
+# MAGICBLAST 1.3.0
+# magicblast -sra ERR1630277 -db snp_flanks -out /home/ubuntu/test/out/ERS1348734/mbo/ERR1630277.mbo -outfmt tabular -parse_deflines T -num_threads 1 -no_unaligned -splice F 
+# Fields: query acc.	reference acc.	% identity	not used	not used	not used	query start	query end	reference start	reference end	not used	not used	score	query strand	reference strand	query length	BTOP	num placements	not used	compartment	left overhang	right overhang	mate reference	mate ref. start	composite score
+ERR1630277.1040.1	113	96.875	0	0	0	1	32	32	1	0	99	27	plus	minus	43	6CA25	1	-	1:0	-	CGCGCGTGTAG	-	-	27
+ERR1630277.2408.1	126	100	0	0	0	1	22	22	1	0	99	22	plus	minus	43	22	1	-	1:1	-	GCTATAGGGTAAATACGGGCC	-	-	22
+ERR1630277.4498.1	170	96.875	0	0	0	12	43	50	19	0	99	27	plus	minus	43	24GA7	1	-	1:2	TGGGGCAGGTG	-	-	-	27
+ERR1630277.6631.1	57	100	0	0	0	8	43	51	16	0	99	36	plus	minus	43	36	1	-	1:3	ACAAGAA	-	-	-	36
+ERR1630277.10246.1	138	100	0	0	0	16	40	1	25	0	99	25	plus	plus	43	25	1	-	1:4	TGGGTGGGTGTGGGT	AGC	-	-	25
+ERR1630277.18275.1	137	100	0	0	0	4	28	27	51	0	99	25	plus	plus	43	25	1	-	1:5	CGC	GCGCTAGACAACCCT	-	-	25
+ERR1630277.19974.1	121	97.6744	0	0	0	1	43	43	1	0	99	38	plus	minus	43	17TC25	1	-	1:6	-	-	-	-	38
+ERR1630277.23544.1	140	100	0	0	0	1	36	36	1	0	99	36	plus	minus	43	36	1	-	1:7	-	GGCCTGT	-	-	36
+ERR1630277.25309.1	121	97.6744	0	0	0	1	43	2	44	0	99	38	plus	plus	43	24AG18	1	-	1:8	-	-	-	-	38
+ERR1630277.26236.1	126	100	0	0	0	1	23	23	1	0	99	23	plus	minus	43	23	1	-	1:9	-	GCTATAGGGTAAATACTGTC	-	-	23
+ERR1630277.36103.1	141	100	0	0	0	15	43	51	23	0	99	29	plus	minus	43	29	1	-	1:10	GAGAAAATGGAGAC	-	-	-	29
+ERR1630277.37847.1	113	97.6744	0	0	0	1	43	49	7	0	99	38	plus	minus	43	23CA19	1	-	1:11	-	-	-	-	38
+ERR1630277.37920.1	66	100	0	0	0	22	43	1	22	0	99	22	plus	plus	43	22	1	-	1:12	GGTGCGCGCCATGTTGGTCTC	-	-	-	22
+ERR1630277.40557.1	121	97.619	0	0	0	2	43	1	42	0	99	37	plus	plus	43	25AG16	1	-	1:13	A	-	-	-	37
+ERR1630277.45295.1	112	100	0	0	0	21	43	4	26	0	99	23	plus	plus	43	23	1	-	1:14	CTTGATGGCCTCTTCTGATG	-	-	-	23
+ERR1630277.47927.1	170	97.6744	0	0	0	1	43	7	49	0	99	38	plus	plus	43	19CT23	1	-	1:15	-	-	-	-	38
+ERR1630277.49277.1	57	100	0	0	0	2	43	51	10	0	99	42	plus	minus	43	42	1	-	1:16	A	-	-	-	42
+ERR1630277.49924.1	57	100	0	0	0	1	34	44	11	0	99	34	plus	minus	43	34	1	-	1:17	-	GTTTTGGTC	-	-	34
+ERR1630277.50118.1	121	96.6667	0	0	0	1	30	30	1	0	99	25	plus	minus	43	4TC25	1	-	1:18	-	ATGCTTTGTCTGT	-	-	25
+ERR1630277.50885.1	66	100	0	0	0	13	43	51	21	0	99	31	plus	minus	43	31	1	-	1:19	TTCAAGTACGTC	-	-	-	31
+ERR1630277.58295.1	112	100	0	0	0	4	43	4	43	0	99	40	plus	plus	43	40	1	-	1:20	CTT	-	-	-	40
+ERR1630277.59964.1	129	100	0	0	0	12	42	21	51	0	99	31	plus	plus	43	31	1	-	1:21	CCCATGTACTC	C	-	-	31
+ERR1630277.64171.1	27	100	0	0	0	7	31	1	25	0	99	25	plus	plus	43	25	1	-	1:22	CAGGAT	TGCTGTCTCTTA	-	-	25

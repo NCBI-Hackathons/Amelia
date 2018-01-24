@@ -27,19 +27,22 @@ echo "";
 	fi 
  
 
-ADDRESS="ftp.ncbi.nlm.nih.gov"
-SRC_DIR="pub/clinvar/vcf_GRCh37/"
+ADDRESS="ftp://ftp.ncbi.nlm.nih.gov/"
+# SRC_DIR="pub/clinvar/vcf_GRCh37/"
+SRC_DIR="pub/clinvar/vcf_GRCh37/archive_1.0/2017/"
 command="open -e \"get $SRC_DIR$1.md5 ; exit \" \"$ADDRESS\""
 command2="open -e \"get $SRC_DIR$1 ; exit \" \"$ADDRESS\""
 
 file1=`md5 -q $1`
 if [ ! -e $1.md5 ]; then
-    lftp -c "$command" 
+    #lftp -c "$command"
+    wget $ADDRESS$SRC_DIR$1.md5
 fi
 file2=`cut -d* -f1 $1.md5`
 
 if [ ! -e $1 ]; then
-    lftp -c "$command2"
+    #lftp -c "$command2"
+    wget $ADDRESS$SRC_DIR$1
 fi
 
 echo "Checking file: $1"
@@ -52,7 +55,8 @@ if [ $file1 != $file2 ]
 then
   echo "md5 sums mismatch"
   mv $1 $1.old
-  lftp -c "$command2"
+  # lftp -c "$command2"
+  wget $ADDRESS$SRC_DIR$1
 else
   echo "checksums OK"
 fi

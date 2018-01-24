@@ -1,0 +1,22 @@
+# MAGICBLAST 1.3.0
+# magicblast -sra ERR1630596 -db snp_flanks -out /home/ubuntu/test/out/ERS1349053/mbo/ERR1630596.mbo -outfmt tabular -parse_deflines T -num_threads 1 -no_unaligned -splice F 
+# Fields: query acc.	reference acc.	% identity	not used	not used	not used	query start	query end	reference start	reference end	not used	not used	score	query strand	reference strand	query length	BTOP	num placements	not used	compartment	left overhang	right overhang	mate reference	mate ref. start	composite score
+ERR1630596.44679.1	112	100	0	0	0	1	43	49	7	0	99	43	plus	minus	43	43	1	-	1:0	-	-	-	-	43
+ERR1630596.73477.1	2	100	0	0	0	4	28	25	1	0	99	25	plus	minus	43	25	1	-	1:1	AGC	GGCGGCGGGTGGGGG	-	-	25
+ERR1630596.92835.1	112	100	0	0	0	1	32	35	4	0	99	32	plus	minus	43	32	1	-	1:2	-	CTTGATGGCCT	-	-	32
+ERR1630596.94141.1	170	97.6744	0	0	0	1	43	2	44	0	99	38	plus	plus	43	24CT18	1	-	1:3	-	-	-	-	38
+ERR1630596.110444.1	112	100	0	0	0	9	43	4	38	0	99	35	plus	plus	43	35	1	-	1:4	CTTGATGG	-	-	-	35
+ERR1630596.110743.1	112	100	0	0	0	1	43	49	7	0	99	43	plus	minus	43	43	1	-	1:5	-	-	-	-	43
+ERR1630596.146690.1	170	97.561	0	0	0	1	41	10	50	0	99	36	plus	plus	43	16CT24	1	-	1:6	-	TG	-	-	36
+ERR1630596.158917.1	169	100	0	0	0	1	43	51	9	0	99	43	plus	minus	43	43	1	-	1:7	-	-	-	-	43
+ERR1630596.162479.1	169	100	0	0	0	1	43	1	43	0	99	43	plus	plus	43	43	1	-	1:8	-	-	-	-	43
+ERR1630596.204007.1	157	100	0	0	0	16	40	51	27	0	99	25	plus	minus	43	25	1	-	1:9	GGCCCTCTGGGGACC	GCA	-	-	25
+ERR1630596.209752.1	169	100	0	0	0	1	43	44	2	0	99	43	plus	minus	43	43	1	-	1:10	-	-	-	-	43
+ERR1630596.233686.1	170	97.6744	0	0	0	1	43	48	6	0	99	38	plus	minus	43	22GA20	1	-	1:11	-	-	-	-	38
+ERR1630596.265157.1	2	97.4359	0	0	0	1	39	2	40	0	99	34	plus	plus	43	24AG14	1	-	1:12	-	AAAA	-	-	34
+ERR1630596.275656.1	112	100	0	0	0	21	43	4	26	0	99	23	plus	plus	43	23	1	-	1:13	CTTGATGGCCTCTTCTGATG	-	-	-	23
+ERR1630596.287194.1	169	100	0	0	0	13	43	1	31	0	99	31	plus	plus	43	31	1	-	1:14	TTCCACCAGGTG	-	-	-	31
+ERR1630596.294236.1	170	97.6744	0	0	0	1	43	49	7	0	99	38	plus	minus	43	23GA19	1	-	1:15	-	-	-	-	38
+ERR1630596.316480.1	169	100	0	0	0	1	43	48	6	0	99	43	plus	minus	43	43	1	-	1:16	-	-	-	-	43
+ERR1630596.318568.1	169	100	0	0	0	1	43	1	43	0	99	43	plus	plus	43	43	1	-	1:17	-	-	-	-	43
+ERR1630596.319670.1	126	100	0	0	0	1	20	5	24	0	99	20	plus	plus	43	20	1	-	1:18	-	AAAAAAAAAAAAAAAAAAAAAAA	-	-	20

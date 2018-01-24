@@ -1,0 +1,20 @@
+# MAGICBLAST 1.3.0
+# magicblast -sra ERR1633065 -db snp_flanks -out /home/ubuntu/test/out/ERS1351522/mbo/ERR1633065.mbo -outfmt tabular -parse_deflines T -num_threads 1 -no_unaligned -splice F 
+# Fields: query acc.	reference acc.	% identity	not used	not used	not used	query start	query end	reference start	reference end	not used	not used	score	query strand	reference strand	query length	BTOP	num placements	not used	compartment	left overhang	right overhang	mate reference	mate ref. start	composite score
+ERR1633065.71182.1	57	100	0	0	0	2	43	50	9	0	99	42	plus	minus	43	42	1	-	1:0	C	-	-	-	42
+ERR1633065.71758.1	126	100	0	0	0	1	23	23	1	0	99	23	plus	minus	43	23	1	-	1:1	-	GCTATAGGGTAAATACGGGC	-	-	23
+ERR1633065.81434.1	126	100	0	0	0	1	20	20	1	0	99	20	plus	minus	43	20	1	-	1:2	-	GCTATAGGGTAAATACGGGCCCT	-	-	20
+ERR1633065.109118.1	126	100	0	0	0	1	23	23	1	0	99	23	plus	minus	43	23	1	-	1:3	-	GCTATAGGGTAAATACGGGC	-	-	23
+ERR1633065.117451.1	169	100	0	0	0	1	43	4	46	0	99	43	plus	plus	43	43	1	-	1:4	-	-	-	-	43
+ERR1633065.119601.1	126	100	0	0	0	1	20	20	1	0	99	20	plus	minus	43	20	1	-	1:5	-	GCTATAGGGTAAATACGGGCCCT	-	-	20
+ERR1633065.179634.1	126	100	0	0	0	1	23	23	1	0	99	23	plus	minus	43	23	1	-	1:6	-	GCTATAGGGTAAATACGGGC	-	-	23
+ERR1633065.212464.1	126	100	0	0	0	3	23	21	1	0	99	21	plus	minus	43	21	1	-	1:7	TC	GCTATAGGGTAAATACGGGC	-	-	21
+ERR1633065.214380.1	126	100	0	0	0	3	23	21	1	0	99	21	plus	minus	43	21	1	-	1:8	TA	GCTATAGGGTAAATACGGGC	-	-	21
+ERR1633065.295988.1	126	100	0	0	0	17	40	1	24	0	99	24	plus	plus	43	24	1	-	1:9	GCTATAGGGTAAATAC	ATA	-	-	24
+ERR1633065.304202.1	126	100	0	0	0	1	23	23	1	0	99	23	plus	minus	43	23	1	-	1:10	-	GCTATAGGGTAAATACGGGC	-	-	23
+ERR1633065.329603.1	126	100	0	0	0	1	23	23	1	0	99	23	plus	minus	43	23	1	-	1:11	-	GCTATAGGGTAAATACGGGC	-	-	23
+ERR1633065.337225.1	126	100	0	0	0	8	31	1	24	0	99	24	plus	plus	43	24	1	-	1:12	GCTATAG	AAAAAAAAAAAA	-	-	24
+ERR1633065.347810.1	126	100	0	0	0	1	22	22	1	0	99	22	plus	minus	43	22	1	-	1:13	-	GCTATAGGGTAAATACGGGCC	-	-	22
+ERR1633065.371969.1	126	100	0	0	0	1	22	22	1	0	99	22	plus	minus	43	22	1	-	1:14	-	GCTATAGGGTAAATACGGGCC	-	-	22
+ERR1633065.381891.1	126	100	0	0	0	23	43	1	21	0	99	21	plus	plus	43	21	1	-	1:15	GCTATAGGGTAAATACGGGCCC	-	-	-	21
+ERR1633065.383501.1	126	100	0	0	0	1	23	23	1	0	99	23	plus	minus	43	23	1	-	1:16	-	GCTATAGGGTAAATACGGGC	-	-	23

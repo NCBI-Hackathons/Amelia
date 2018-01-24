@@ -1,0 +1,3514 @@
+ERS1351983	type II diabetes mellitus
+ERS1351982	type II diabetes mellitus
+ERS1351981	type II diabetes mellitus
+ERS1351980	type II diabetes mellitus
+ERS1351979	type II diabetes mellitus
+ERS1351978	type II diabetes mellitus
+ERS1351977	type II diabetes mellitus
+ERS1351976	type II diabetes mellitus
+ERS1351975	type II diabetes mellitus
+ERS1351974	type II diabetes mellitus
+ERS1351973	type II diabetes mellitus
+ERS1351972	type II diabetes mellitus
+ERS1351971	type II diabetes mellitus
+ERS1351970	type II diabetes mellitus
+ERS1351969	type II diabetes mellitus
+ERS1351968	type II diabetes mellitus
+ERS1351967	type II diabetes mellitus
+ERS1351966	type II diabetes mellitus
+ERS1351965	type II diabetes mellitus
+ERS1351964	type II diabetes mellitus
+ERS1351963	type II diabetes mellitus
+ERS1351962	type II diabetes mellitus
+ERS1351961	type II diabetes mellitus
+ERS1351960	type II diabetes mellitus
+ERS1351959	type II diabetes mellitus
+ERS1351958	type II diabetes mellitus
+ERS1351957	type II diabetes mellitus
+ERS1351956	type II diabetes mellitus
+ERS1351955	type II diabetes mellitus
+ERS1351954	type II diabetes mellitus
+ERS1351953	type II diabetes mellitus
+ERS1351952	type II diabetes mellitus
+ERS1351951	type II diabetes mellitus
+ERS1351950	type II diabetes mellitus
+ERS1351949	type II diabetes mellitus
+ERS1351948	type II diabetes mellitus
+ERS1351947	type II diabetes mellitus
+ERS1351946	type II diabetes mellitus
+ERS1351945	type II diabetes mellitus
+ERS1351944	type II diabetes mellitus
+ERS1351943	type II diabetes mellitus
+ERS1351942	type II diabetes mellitus
+ERS1351941	type II diabetes mellitus
+ERS1351940	type II diabetes mellitus
+ERS1351939	type II diabetes mellitus
+ERS1351938	type II diabetes mellitus
+ERS1351937	type II diabetes mellitus
+ERS1351936	type II diabetes mellitus
+ERS1351935	type II diabetes mellitus
+ERS1351934	type II diabetes mellitus
+ERS1351933	type II diabetes mellitus
+ERS1351932	type II diabetes mellitus
+ERS1351931	type II diabetes mellitus
+ERS1351930	type II diabetes mellitus
+ERS1351929	type II diabetes mellitus
+ERS1351928	type II diabetes mellitus
+ERS1351927	type II diabetes mellitus
+ERS1351926	type II diabetes mellitus
+ERS1351925	type II diabetes mellitus
+ERS1351924	type II diabetes mellitus
+ERS1351923	type II diabetes mellitus
+ERS1351922	type II diabetes mellitus
+ERS1351921	type II diabetes mellitus
+ERS1351920	type II diabetes mellitus
+ERS1351919	type II diabetes mellitus
+ERS1351918	type II diabetes mellitus
+ERS1351917	type II diabetes mellitus
+ERS1351916	type II diabetes mellitus
+ERS1351915	type II diabetes mellitus
+ERS1351914	type II diabetes mellitus
+ERS1351913	type II diabetes mellitus
+ERS1351912	type II diabetes mellitus
+ERS1351911	type II diabetes mellitus
+ERS1351910	type II diabetes mellitus
+ERS1351909	type II diabetes mellitus
+ERS1351908	type II diabetes mellitus
+ERS1351907	type II diabetes mellitus
+ERS1351906	type II diabetes mellitus
+ERS1351905	type II diabetes mellitus
+ERS1351904	type II diabetes mellitus
+ERS1351903	type II diabetes mellitus
+ERS1351902	type II diabetes mellitus
+ERS1351901	type II diabetes mellitus
+ERS1351900	type II diabetes mellitus
+ERS1351899	type II diabetes mellitus
+ERS1351898	type II diabetes mellitus
+ERS1351897	type II diabetes mellitus
+ERS1351896	type II diabetes mellitus
+ERS1351895	type II diabetes mellitus
+ERS1351894	type II diabetes mellitus
+ERS1351893	type II diabetes mellitus
+ERS1351892	type II diabetes mellitus
+ERS1351891	type II diabetes mellitus
+ERS1351890	type II diabetes mellitus
+ERS1351889	type II diabetes mellitus
+ERS1351888	type II diabetes mellitus
+ERS1351887	type II diabetes mellitus
+ERS1351886	type II diabetes mellitus
+ERS1351885	type II diabetes mellitus
+ERS1351884	type II diabetes mellitus
+ERS1351883	type II diabetes mellitus
+ERS1351882	type II diabetes mellitus
+ERS1351881	type II diabetes mellitus
+ERS1351880	type II diabetes mellitus
+ERS1351879	type II diabetes mellitus
+ERS1351878	type II diabetes mellitus
+ERS1351877	type II diabetes mellitus
+ERS1351876	type II diabetes mellitus
+ERS1351875	type II diabetes mellitus
+ERS1351874	type II diabetes mellitus
+ERS1351873	type II diabetes mellitus
+ERS1351872	type II diabetes mellitus
+ERS1351871	type II diabetes mellitus
+ERS1351870	type II diabetes mellitus
+ERS1351869	type II diabetes mellitus
+ERS1351868	type II diabetes mellitus
+ERS1351867	type II diabetes mellitus
+ERS1351866	type II diabetes mellitus
+ERS1351865	type II diabetes mellitus
+ERS1351864	type II diabetes mellitus
+ERS1351863	type II diabetes mellitus
+ERS1351862	type II diabetes mellitus
+ERS1351861	type II diabetes mellitus
+ERS1351860	type II diabetes mellitus
+ERS1351859	type II diabetes mellitus
+ERS1351858	type II diabetes mellitus
+ERS1351857	type II diabetes mellitus
+ERS1351856	type II diabetes mellitus
+ERS1351855	type II diabetes mellitus
+ERS1351854	type II diabetes mellitus
+ERS1351853	type II diabetes mellitus
+ERS1351852	type II diabetes mellitus
+ERS1351851	type II diabetes mellitus
+ERS1351850	type II diabetes mellitus
+ERS1351849	type II diabetes mellitus
+ERS1351848	type II diabetes mellitus
+ERS1351847	type II diabetes mellitus
+ERS1351846	type II diabetes mellitus
+ERS1351845	type II diabetes mellitus
+ERS1351844	type II diabetes mellitus
+ERS1351843	type II diabetes mellitus
+ERS1351842	type II diabetes mellitus
+ERS1351841	type II diabetes mellitus
+ERS1351840	type II diabetes mellitus
+ERS1351839	type II diabetes mellitus
+ERS1351838	type II diabetes mellitus
+ERS1351837	type II diabetes mellitus
+ERS1351836	type II diabetes mellitus
+ERS1351835	type II diabetes mellitus
+ERS1351834	type II diabetes mellitus
+ERS1351833	type II diabetes mellitus
+ERS1351832	type II diabetes mellitus
+ERS1351831	type II diabetes mellitus
+ERS1351830	type II diabetes mellitus
+ERS1351829	type II diabetes mellitus
+ERS1351828	type II diabetes mellitus
+ERS1351827	type II diabetes mellitus
+ERS1351826	type II diabetes mellitus
+ERS1351825	type II diabetes mellitus
+ERS1351824	type II diabetes mellitus
+ERS1351823	type II diabetes mellitus
+ERS1351822	type II diabetes mellitus
+ERS1351821	type II diabetes mellitus
+ERS1351820	type II diabetes mellitus
+ERS1351819	type II diabetes mellitus
+ERS1351818	type II diabetes mellitus
+ERS1351817	type II diabetes mellitus
+ERS1351816	type II diabetes mellitus
+ERS1351815	type II diabetes mellitus
+ERS1351814	type II diabetes mellitus
+ERS1351813	type II diabetes mellitus
+ERS1351812	type II diabetes mellitus
+ERS1351811	type II diabetes mellitus
+ERS1351810	type II diabetes mellitus
+ERS1351809	type II diabetes mellitus
+ERS1351808	type II diabetes mellitus
+ERS1351807	type II diabetes mellitus
+ERS1351806	type II diabetes mellitus
+ERS1351805	type II diabetes mellitus
+ERS1351804	type II diabetes mellitus
+ERS1351803	type II diabetes mellitus
+ERS1351802	type II diabetes mellitus
+ERS1351801	type II diabetes mellitus
+ERS1351800	type II diabetes mellitus
+ERS1351799	type II diabetes mellitus
+ERS1351798	type II diabetes mellitus
+ERS1351797	type II diabetes mellitus
+ERS1351796	type II diabetes mellitus
+ERS1351795	type II diabetes mellitus
+ERS1351794	type II diabetes mellitus
+ERS1351793	type II diabetes mellitus
+ERS1351792	type II diabetes mellitus
+ERS1351791	type II diabetes mellitus
+ERS1351790	type II diabetes mellitus
+ERS1351789	type II diabetes mellitus
+ERS1351788	type II diabetes mellitus
+ERS1351787	type II diabetes mellitus
+ERS1351786	type II diabetes mellitus
+ERS1351785	type II diabetes mellitus
+ERS1351784	type II diabetes mellitus
+ERS1351783	type II diabetes mellitus
+ERS1351782	type II diabetes mellitus
+ERS1351781	type II diabetes mellitus
+ERS1351780	type II diabetes mellitus
+ERS1351779	type II diabetes mellitus
+ERS1351778	type II diabetes mellitus
+ERS1351777	type II diabetes mellitus
+ERS1351776	type II diabetes mellitus
+ERS1351775	type II diabetes mellitus
+ERS1351774	type II diabetes mellitus
+ERS1351773	type II diabetes mellitus
+ERS1351772	type II diabetes mellitus
+ERS1351771	type II diabetes mellitus
+ERS1351770	type II diabetes mellitus
+ERS1351769	type II diabetes mellitus
+ERS1351768	type II diabetes mellitus
+ERS1351767	type II diabetes mellitus
+ERS1351766	type II diabetes mellitus
+ERS1351765	type II diabetes mellitus
+ERS1351764	type II diabetes mellitus
+ERS1351763	type II diabetes mellitus
+ERS1351762	type II diabetes mellitus
+ERS1351761	type II diabetes mellitus
+ERS1351760	type II diabetes mellitus
+ERS1351759	type II diabetes mellitus
+ERS1351758	type II diabetes mellitus
+ERS1351757	type II diabetes mellitus
+ERS1351756	type II diabetes mellitus
+ERS1351755	type II diabetes mellitus
+ERS1351754	type II diabetes mellitus
+ERS1351753	type II diabetes mellitus
+ERS1351752	type II diabetes mellitus
+ERS1351751	type II diabetes mellitus
+ERS1351750	type II diabetes mellitus
+ERS1351749	type II diabetes mellitus
+ERS1351748	type II diabetes mellitus
+ERS1351747	type II diabetes mellitus
+ERS1351746	type II diabetes mellitus
+ERS1351745	type II diabetes mellitus
+ERS1351744	type II diabetes mellitus
+ERS1351743	type II diabetes mellitus
+ERS1351742	type II diabetes mellitus
+ERS1351741	type II diabetes mellitus
+ERS1351740	type II diabetes mellitus
+ERS1351739	type II diabetes mellitus
+ERS1351738	type II diabetes mellitus
+ERS1351737	type II diabetes mellitus
+ERS1351736	type II diabetes mellitus
+ERS1351735	type II diabetes mellitus
+ERS1351734	type II diabetes mellitus
+ERS1351733	type II diabetes mellitus
+ERS1351732	type II diabetes mellitus
+ERS1351731	type II diabetes mellitus
+ERS1351730	type II diabetes mellitus
+ERS1351729	type II diabetes mellitus
+ERS1351728	type II diabetes mellitus
+ERS1351727	type II diabetes mellitus
+ERS1351726	type II diabetes mellitus
+ERS1351725	type II diabetes mellitus
+ERS1351724	type II diabetes mellitus
+ERS1351723	type II diabetes mellitus
+ERS1351722	type II diabetes mellitus
+ERS1351721	type II diabetes mellitus
+ERS1351720	type II diabetes mellitus
+ERS1351719	type II diabetes mellitus
+ERS1351718	type II diabetes mellitus
+ERS1351717	type II diabetes mellitus
+ERS1351716	type II diabetes mellitus
+ERS1351715	type II diabetes mellitus
+ERS1351714	type II diabetes mellitus
+ERS1351713	type II diabetes mellitus
+ERS1351712	type II diabetes mellitus
+ERS1351711	type II diabetes mellitus
+ERS1351710	type II diabetes mellitus
+ERS1351709	type II diabetes mellitus
+ERS1351708	type II diabetes mellitus
+ERS1351707	type II diabetes mellitus
+ERS1351706	type II diabetes mellitus
+ERS1351705	type II diabetes mellitus
+ERS1351704	type II diabetes mellitus
+ERS1351703	type II diabetes mellitus
+ERS1351702	type II diabetes mellitus
+ERS1351701	type II diabetes mellitus
+ERS1351700	type II diabetes mellitus
+ERS1351699	type II diabetes mellitus
+ERS1351698	type II diabetes mellitus
+ERS1351697	type II diabetes mellitus
+ERS1351696	type II diabetes mellitus
+ERS1351695	type II diabetes mellitus
+ERS1351694	type II diabetes mellitus
+ERS1351693	type II diabetes mellitus
+ERS1351692	type II diabetes mellitus
+ERS1351691	type II diabetes mellitus
+ERS1351690	type II diabetes mellitus
+ERS1351689	type II diabetes mellitus
+ERS1351688	type II diabetes mellitus
+ERS1351687	type II diabetes mellitus
+ERS1351686	type II diabetes mellitus
+ERS1351685	type II diabetes mellitus
+ERS1351684	type II diabetes mellitus
+ERS1351683	type II diabetes mellitus
+ERS1351682	type II diabetes mellitus
+ERS1351681	type II diabetes mellitus
+ERS1351680	type II diabetes mellitus
+ERS1351679	type II diabetes mellitus
+ERS1351678	type II diabetes mellitus
+ERS1351677	type II diabetes mellitus
+ERS1351676	type II diabetes mellitus
+ERS1351675	type II diabetes mellitus
+ERS1351674	type II diabetes mellitus
+ERS1351673	type II diabetes mellitus
+ERS1351672	type II diabetes mellitus
+ERS1351671	type II diabetes mellitus
+ERS1351670	type II diabetes mellitus
+ERS1351669	type II diabetes mellitus
+ERS1351668	type II diabetes mellitus
+ERS1351667	type II diabetes mellitus
+ERS1351666	type II diabetes mellitus
+ERS1351665	type II diabetes mellitus
+ERS1351664	type II diabetes mellitus
+ERS1351663	type II diabetes mellitus
+ERS1351662	type II diabetes mellitus
+ERS1351661	type II diabetes mellitus
+ERS1351660	type II diabetes mellitus
+ERS1351659	type II diabetes mellitus
+ERS1351658	type II diabetes mellitus
+ERS1351657	type II diabetes mellitus
+ERS1351656	type II diabetes mellitus
+ERS1351655	type II diabetes mellitus
+ERS1351654	type II diabetes mellitus
+ERS1351653	type II diabetes mellitus
+ERS1351652	type II diabetes mellitus
+ERS1351651	type II diabetes mellitus
+ERS1351650	type II diabetes mellitus
+ERS1351649	type II diabetes mellitus
+ERS1351648	type II diabetes mellitus
+ERS1351647	type II diabetes mellitus
+ERS1351646	type II diabetes mellitus
+ERS1351645	type II diabetes mellitus
+ERS1351644	type II diabetes mellitus
+ERS1351643	type II diabetes mellitus
+ERS1351642	type II diabetes mellitus
+ERS1351641	type II diabetes mellitus
+ERS1351640	type II diabetes mellitus
+ERS1351639	type II diabetes mellitus
+ERS1351638	type II diabetes mellitus
+ERS1351637	type II diabetes mellitus
+ERS1351636	type II diabetes mellitus
+ERS1351635	type II diabetes mellitus
+ERS1351634	type II diabetes mellitus
+ERS1351633	type II diabetes mellitus
+ERS1351632	type II diabetes mellitus
+ERS1351631	type II diabetes mellitus
+ERS1351630	type II diabetes mellitus
+ERS1351629	type II diabetes mellitus
+ERS1351628	type II diabetes mellitus
+ERS1351627	type II diabetes mellitus
+ERS1351626	type II diabetes mellitus
+ERS1351625	type II diabetes mellitus
+ERS1351624	type II diabetes mellitus
+ERS1351623	type II diabetes mellitus
+ERS1351622	type II diabetes mellitus
+ERS1351621	type II diabetes mellitus
+ERS1351620	type II diabetes mellitus
+ERS1351619	type II diabetes mellitus
+ERS1351618	type II diabetes mellitus
+ERS1351617	type II diabetes mellitus
+ERS1351616	type II diabetes mellitus
+ERS1351615	type II diabetes mellitus
+ERS1351614	type II diabetes mellitus
+ERS1351613	type II diabetes mellitus
+ERS1351612	type II diabetes mellitus
+ERS1351611	type II diabetes mellitus
+ERS1351610	type II diabetes mellitus
+ERS1351609	type II diabetes mellitus
+ERS1351608	type II diabetes mellitus
+ERS1351607	type II diabetes mellitus
+ERS1351606	type II diabetes mellitus
+ERS1351605	type II diabetes mellitus
+ERS1351604	type II diabetes mellitus
+ERS1351603	type II diabetes mellitus
+ERS1351602	type II diabetes mellitus
+ERS1351601	type II diabetes mellitus
+ERS1351600	type II diabetes mellitus
+ERS1351599	type II diabetes mellitus
+ERS1351598	type II diabetes mellitus
+ERS1351597	type II diabetes mellitus
+ERS1351596	type II diabetes mellitus
+ERS1351595	type II diabetes mellitus
+ERS1351594	type II diabetes mellitus
+ERS1351593	type II diabetes mellitus
+ERS1351592	type II diabetes mellitus
+ERS1351591	type II diabetes mellitus
+ERS1351590	type II diabetes mellitus
+ERS1351589	type II diabetes mellitus
+ERS1351588	type II diabetes mellitus
+ERS1351587	type II diabetes mellitus
+ERS1351586	type II diabetes mellitus
+ERS1351585	type II diabetes mellitus
+ERS1351584	type II diabetes mellitus
+ERS1351583	type II diabetes mellitus
+ERS1351582	type II diabetes mellitus
+ERS1351581	type II diabetes mellitus
+ERS1351580	type II diabetes mellitus
+ERS1351579	type II diabetes mellitus
+ERS1351578	type II diabetes mellitus
+ERS1351577	type II diabetes mellitus
+ERS1351576	type II diabetes mellitus
+ERS1351575	type II diabetes mellitus
+ERS1351574	type II diabetes mellitus
+ERS1351573	type II diabetes mellitus
+ERS1351572	type II diabetes mellitus
+ERS1351571	type II diabetes mellitus
+ERS1351570	type II diabetes mellitus
+ERS1351569	type II diabetes mellitus
+ERS1351568	type II diabetes mellitus
+ERS1351567	type II diabetes mellitus
+ERS1351566	type II diabetes mellitus
+ERS1351565	type II diabetes mellitus
+ERS1351564	type II diabetes mellitus
+ERS1351563	type II diabetes mellitus
+ERS1351562	type II diabetes mellitus
+ERS1351561	type II diabetes mellitus
+ERS1351560	type II diabetes mellitus
+ERS1351559	type II diabetes mellitus
+ERS1351558	type II diabetes mellitus
+ERS1351557	type II diabetes mellitus
+ERS1351556	type II diabetes mellitus
+ERS1351555	type II diabetes mellitus
+ERS1351554	type II diabetes mellitus
+ERS1351553	type II diabetes mellitus
+ERS1351552	type II diabetes mellitus
+ERS1351551	type II diabetes mellitus
+ERS1351550	type II diabetes mellitus
+ERS1351549	type II diabetes mellitus
+ERS1351548	type II diabetes mellitus
+ERS1351547	type II diabetes mellitus
+ERS1351546	type II diabetes mellitus
+ERS1351545	type II diabetes mellitus
+ERS1351544	type II diabetes mellitus
+ERS1351543	type II diabetes mellitus
+ERS1351542	type II diabetes mellitus
+ERS1351541	type II diabetes mellitus
+ERS1351540	type II diabetes mellitus
+ERS1351539	type II diabetes mellitus
+ERS1351538	type II diabetes mellitus
+ERS1351537	type II diabetes mellitus
+ERS1351536	type II diabetes mellitus
+ERS1351535	type II diabetes mellitus
+ERS1351534	type II diabetes mellitus
+ERS1351533	type II diabetes mellitus
+ERS1351532	type II diabetes mellitus
+ERS1351531	type II diabetes mellitus
+ERS1351530	type II diabetes mellitus
+ERS1351529	type II diabetes mellitus
+ERS1351528	type II diabetes mellitus
+ERS1351527	type II diabetes mellitus
+ERS1351526	type II diabetes mellitus
+ERS1351525	type II diabetes mellitus
+ERS1351524	type II diabetes mellitus
+ERS1351523	type II diabetes mellitus
+ERS1351522	type II diabetes mellitus
+ERS1351521	type II diabetes mellitus
+ERS1351520	type II diabetes mellitus
+ERS1351519	type II diabetes mellitus
+ERS1351518	type II diabetes mellitus
+ERS1351517	type II diabetes mellitus
+ERS1351516	type II diabetes mellitus
+ERS1351515	type II diabetes mellitus
+ERS1351514	type II diabetes mellitus
+ERS1351513	type II diabetes mellitus
+ERS1351512	type II diabetes mellitus
+ERS1351511	type II diabetes mellitus
+ERS1351510	type II diabetes mellitus
+ERS1351509	type II diabetes mellitus
+ERS1351508	type II diabetes mellitus
+ERS1351507	type II diabetes mellitus
+ERS1351506	type II diabetes mellitus
+ERS1351505	type II diabetes mellitus
+ERS1351504	type II diabetes mellitus
+ERS1351503	type II diabetes mellitus
+ERS1351502	type II diabetes mellitus
+ERS1351501	type II diabetes mellitus
+ERS1351500	type II diabetes mellitus
+ERS1351499	type II diabetes mellitus
+ERS1351498	type II diabetes mellitus
+ERS1351497	type II diabetes mellitus
+ERS1351496	type II diabetes mellitus
+ERS1351495	type II diabetes mellitus
+ERS1351494	type II diabetes mellitus
+ERS1351493	type II diabetes mellitus
+ERS1351492	type II diabetes mellitus
+ERS1351491	type II diabetes mellitus
+ERS1351490	type II diabetes mellitus
+ERS1351489	type II diabetes mellitus
+ERS1351488	type II diabetes mellitus
+ERS1351487	type II diabetes mellitus
+ERS1351486	type II diabetes mellitus
+ERS1351485	type II diabetes mellitus
+ERS1351484	type II diabetes mellitus
+ERS1351483	type II diabetes mellitus
+ERS1351482	type II diabetes mellitus
+ERS1351481	type II diabetes mellitus
+ERS1351480	type II diabetes mellitus
+ERS1351479	type II diabetes mellitus
+ERS1351478	type II diabetes mellitus
+ERS1351477	type II diabetes mellitus
+ERS1351476	type II diabetes mellitus
+ERS1351475	type II diabetes mellitus
+ERS1351474	type II diabetes mellitus
+ERS1351473	type II diabetes mellitus
+ERS1351472	type II diabetes mellitus
+ERS1351471	type II diabetes mellitus
+ERS1351470	type II diabetes mellitus
+ERS1351469	type II diabetes mellitus
+ERS1351468	type II diabetes mellitus
+ERS1351467	type II diabetes mellitus
+ERS1351466	type II diabetes mellitus
+ERS1351465	type II diabetes mellitus
+ERS1351464	type II diabetes mellitus
+ERS1351463	type II diabetes mellitus
+ERS1351462	type II diabetes mellitus
+ERS1351461	type II diabetes mellitus
+ERS1351460	type II diabetes mellitus
+ERS1351459	type II diabetes mellitus
+ERS1351458	type II diabetes mellitus
+ERS1351457	type II diabetes mellitus
+ERS1351456	type II diabetes mellitus
+ERS1351455	type II diabetes mellitus
+ERS1351454	type II diabetes mellitus
+ERS1351453	type II diabetes mellitus
+ERS1351452	type II diabetes mellitus
+ERS1351451	type II diabetes mellitus
+ERS1351450	type II diabetes mellitus
+ERS1351449	type II diabetes mellitus
+ERS1351448	type II diabetes mellitus
+ERS1351447	type II diabetes mellitus
+ERS1351446	type II diabetes mellitus
+ERS1351445	type II diabetes mellitus
+ERS1351444	type II diabetes mellitus
+ERS1351443	type II diabetes mellitus
+ERS1351442	type II diabetes mellitus
+ERS1351441	type II diabetes mellitus
+ERS1351440	type II diabetes mellitus
+ERS1351439	type II diabetes mellitus
+ERS1351438	type II diabetes mellitus
+ERS1351437	type II diabetes mellitus
+ERS1351436	type II diabetes mellitus
+ERS1351435	type II diabetes mellitus
+ERS1351434	type II diabetes mellitus
+ERS1351433	type II diabetes mellitus
+ERS1351432	type II diabetes mellitus
+ERS1351431	type II diabetes mellitus
+ERS1351430	type II diabetes mellitus
+ERS1351429	type II diabetes mellitus
+ERS1351428	type II diabetes mellitus
+ERS1351427	type II diabetes mellitus
+ERS1351426	type II diabetes mellitus
+ERS1351425	type II diabetes mellitus
+ERS1351424	type II diabetes mellitus
+ERS1351423	type II diabetes mellitus
+ERS1351422	type II diabetes mellitus
+ERS1351421	type II diabetes mellitus
+ERS1351420	type II diabetes mellitus
+ERS1351419	type II diabetes mellitus
+ERS1351418	type II diabetes mellitus
+ERS1351417	type II diabetes mellitus
+ERS1351416	type II diabetes mellitus
+ERS1351415	type II diabetes mellitus
+ERS1351414	type II diabetes mellitus
+ERS1351413	type II diabetes mellitus
+ERS1351412	type II diabetes mellitus
+ERS1351411	type II diabetes mellitus
+ERS1351410	type II diabetes mellitus
+ERS1351409	type II diabetes mellitus
+ERS1351408	type II diabetes mellitus
+ERS1351407	type II diabetes mellitus
+ERS1351406	type II diabetes mellitus
+ERS1351405	type II diabetes mellitus
+ERS1351404	type II diabetes mellitus
+ERS1351403	type II diabetes mellitus
+ERS1351402	type II diabetes mellitus
+ERS1351401	type II diabetes mellitus
+ERS1351400	type II diabetes mellitus
+ERS1351399	type II diabetes mellitus
+ERS1351398	type II diabetes mellitus
+ERS1351397	type II diabetes mellitus
+ERS1351396	type II diabetes mellitus
+ERS1351395	type II diabetes mellitus
+ERS1351394	type II diabetes mellitus
+ERS1351393	type II diabetes mellitus
+ERS1351392	type II diabetes mellitus
+ERS1351391	type II diabetes mellitus
+ERS1351390	type II diabetes mellitus
+ERS1351389	type II diabetes mellitus
+ERS1351388	type II diabetes mellitus
+ERS1351387	type II diabetes mellitus
+ERS1351386	type II diabetes mellitus
+ERS1351385	type II diabetes mellitus
+ERS1351384	type II diabetes mellitus
+ERS1351383	type II diabetes mellitus
+ERS1351382	type II diabetes mellitus
+ERS1351381	type II diabetes mellitus
+ERS1351380	type II diabetes mellitus
+ERS1351379	type II diabetes mellitus
+ERS1351378	type II diabetes mellitus
+ERS1351377	type II diabetes mellitus
+ERS1351376	type II diabetes mellitus
+ERS1351375	type II diabetes mellitus
+ERS1351374	type II diabetes mellitus
+ERS1351373	type II diabetes mellitus
+ERS1351372	type II diabetes mellitus
+ERS1351371	type II diabetes mellitus
+ERS1351370	type II diabetes mellitus
+ERS1351369	type II diabetes mellitus
+ERS1351368	type II diabetes mellitus
+ERS1351367	type II diabetes mellitus
+ERS1351366	type II diabetes mellitus
+ERS1351365	type II diabetes mellitus
+ERS1351364	type II diabetes mellitus
+ERS1351363	type II diabetes mellitus
+ERS1351362	type II diabetes mellitus
+ERS1351361	type II diabetes mellitus
+ERS1351360	type II diabetes mellitus
+ERS1351359	type II diabetes mellitus
+ERS1351358	type II diabetes mellitus
+ERS1351357	type II diabetes mellitus
+ERS1351356	type II diabetes mellitus
+ERS1351355	type II diabetes mellitus
+ERS1351354	type II diabetes mellitus
+ERS1351353	type II diabetes mellitus
+ERS1351352	type II diabetes mellitus
+ERS1351351	type II diabetes mellitus
+ERS1351350	type II diabetes mellitus
+ERS1351349	type II diabetes mellitus
+ERS1351348	type II diabetes mellitus
+ERS1351347	type II diabetes mellitus
+ERS1351346	type II diabetes mellitus
+ERS1351345	type II diabetes mellitus
+ERS1351344	type II diabetes mellitus
+ERS1351343	type II diabetes mellitus
+ERS1351342	type II diabetes mellitus
+ERS1351341	type II diabetes mellitus
+ERS1351340	type II diabetes mellitus
+ERS1351339	type II diabetes mellitus
+ERS1351338	type II diabetes mellitus
+ERS1351337	type II diabetes mellitus
+ERS1351336	type II diabetes mellitus
+ERS1351335	type II diabetes mellitus
+ERS1351334	type II diabetes mellitus
+ERS1351333	type II diabetes mellitus
+ERS1351332	type II diabetes mellitus
+ERS1351331	type II diabetes mellitus
+ERS1351330	type II diabetes mellitus
+ERS1351329	type II diabetes mellitus
+ERS1351328	type II diabetes mellitus
+ERS1351327	type II diabetes mellitus
+ERS1351326	type II diabetes mellitus
+ERS1351325	type II diabetes mellitus
+ERS1351324	type II diabetes mellitus
+ERS1351323	type II diabetes mellitus
+ERS1351322	type II diabetes mellitus
+ERS1351321	type II diabetes mellitus
+ERS1351320	type II diabetes mellitus
+ERS1351319	type II diabetes mellitus
+ERS1351318	type II diabetes mellitus
+ERS1351317	type II diabetes mellitus
+ERS1351316	type II diabetes mellitus
+ERS1351315	type II diabetes mellitus
+ERS1351314	type II diabetes mellitus
+ERS1351313	type II diabetes mellitus
+ERS1351312	type II diabetes mellitus
+ERS1351311	type II diabetes mellitus
+ERS1351310	type II diabetes mellitus
+ERS1351309	type II diabetes mellitus
+ERS1351308	type II diabetes mellitus
+ERS1351307	type II diabetes mellitus
+ERS1351306	type II diabetes mellitus
+ERS1351305	type II diabetes mellitus
+ERS1351304	type II diabetes mellitus
+ERS1351303	type II diabetes mellitus
+ERS1351302	type II diabetes mellitus
+ERS1351301	type II diabetes mellitus
+ERS1351300	type II diabetes mellitus
+ERS1351299	type II diabetes mellitus
+ERS1351298	type II diabetes mellitus
+ERS1351297	type II diabetes mellitus
+ERS1351296	type II diabetes mellitus
+ERS1351295	type II diabetes mellitus
+ERS1351294	type II diabetes mellitus
+ERS1351293	type II diabetes mellitus
+ERS1351292	type II diabetes mellitus
+ERS1351291	type II diabetes mellitus
+ERS1351290	type II diabetes mellitus
+ERS1351289	type II diabetes mellitus
+ERS1351288	type II diabetes mellitus
+ERS1351287	type II diabetes mellitus
+ERS1351286	type II diabetes mellitus
+ERS1351285	type II diabetes mellitus
+ERS1351284	type II diabetes mellitus
+ERS1351283	type II diabetes mellitus
+ERS1351282	type II diabetes mellitus
+ERS1351281	type II diabetes mellitus
+ERS1351280	type II diabetes mellitus
+ERS1351279	type II diabetes mellitus
+ERS1351278	type II diabetes mellitus
+ERS1351277	type II diabetes mellitus
+ERS1351276	type II diabetes mellitus
+ERS1351275	type II diabetes mellitus
+ERS1351274	type II diabetes mellitus
+ERS1351273	type II diabetes mellitus
+ERS1351272	type II diabetes mellitus
+ERS1351271	type II diabetes mellitus
+ERS1351270	type II diabetes mellitus
+ERS1351269	type II diabetes mellitus
+ERS1351268	type II diabetes mellitus
+ERS1351267	type II diabetes mellitus
+ERS1351266	type II diabetes mellitus
+ERS1351265	type II diabetes mellitus
+ERS1351264	type II diabetes mellitus
+ERS1351263	type II diabetes mellitus
+ERS1351262	type II diabetes mellitus
+ERS1351261	type II diabetes mellitus
+ERS1351260	type II diabetes mellitus
+ERS1351259	type II diabetes mellitus
+ERS1351258	type II diabetes mellitus
+ERS1351257	type II diabetes mellitus
+ERS1351256	type II diabetes mellitus
+ERS1351255	type II diabetes mellitus
+ERS1351254	type II diabetes mellitus
+ERS1351253	type II diabetes mellitus
+ERS1351252	type II diabetes mellitus
+ERS1351251	type II diabetes mellitus
+ERS1351250	type II diabetes mellitus
+ERS1351249	type II diabetes mellitus
+ERS1351248	type II diabetes mellitus
+ERS1351247	type II diabetes mellitus
+ERS1351246	type II diabetes mellitus
+ERS1351245	type II diabetes mellitus
+ERS1351244	type II diabetes mellitus
+ERS1351243	type II diabetes mellitus
+ERS1351242	type II diabetes mellitus
+ERS1351241	type II diabetes mellitus
+ERS1351240	type II diabetes mellitus
+ERS1351239	type II diabetes mellitus
+ERS1351238	type II diabetes mellitus
+ERS1351237	type II diabetes mellitus
+ERS1351236	type II diabetes mellitus
+ERS1351235	type II diabetes mellitus
+ERS1351234	type II diabetes mellitus
+ERS1351233	type II diabetes mellitus
+ERS1351232	type II diabetes mellitus
+ERS1351231	type II diabetes mellitus
+ERS1351230	type II diabetes mellitus
+ERS1351229	type II diabetes mellitus
+ERS1351228	type II diabetes mellitus
+ERS1351227	type II diabetes mellitus
+ERS1351226	type II diabetes mellitus
+ERS1351225	type II diabetes mellitus
+ERS1351224	type II diabetes mellitus
+ERS1351223	type II diabetes mellitus
+ERS1351222	type II diabetes mellitus
+ERS1351221	type II diabetes mellitus
+ERS1351220	type II diabetes mellitus
+ERS1351219	type II diabetes mellitus
+ERS1351218	type II diabetes mellitus
+ERS1351217	type II diabetes mellitus
+ERS1351216	type II diabetes mellitus
+ERS1351215	normal
+ERS1351214	normal
+ERS1351213	normal
+ERS1351212	normal
+ERS1351211	normal
+ERS1351210	normal
+ERS1351209	normal
+ERS1351208	normal
+ERS1351207	normal
+ERS1351206	normal
+ERS1351205	normal
+ERS1351204	normal
+ERS1351203	normal
+ERS1351202	normal
+ERS1351201	normal
+ERS1351200	normal
+ERS1351199	normal
+ERS1351198	normal
+ERS1351197	normal
+ERS1351196	normal
+ERS1351195	normal
+ERS1351194	normal
+ERS1351193	normal
+ERS1351192	normal
+ERS1351191	normal
+ERS1351190	normal
+ERS1351189	normal
+ERS1351188	normal
+ERS1351187	normal
+ERS1351186	normal
+ERS1351185	normal
+ERS1351184	normal
+ERS1351183	normal
+ERS1351182	normal
+ERS1351181	normal
+ERS1351180	normal
+ERS1351179	normal
+ERS1351178	normal
+ERS1351177	normal
+ERS1351176	normal
+ERS1351175	normal
+ERS1351174	normal
+ERS1351173	normal
+ERS1351172	normal
+ERS1351171	normal
+ERS1351170	normal
+ERS1351169	normal
+ERS1351168	normal
+ERS1351167	normal
+ERS1351166	normal
+ERS1351165	normal
+ERS1351164	normal
+ERS1351163	normal
+ERS1351162	normal
+ERS1351161	normal
+ERS1351160	normal
+ERS1351159	normal
+ERS1351158	normal
+ERS1351157	normal
+ERS1351156	normal
+ERS1351155	normal
+ERS1351154	normal
+ERS1351153	normal
+ERS1351152	normal
+ERS1351151	normal
+ERS1351150	normal
+ERS1351149	normal
+ERS1351148	normal
+ERS1351147	normal
+ERS1351146	normal
+ERS1351145	normal
+ERS1351144	normal
+ERS1351143	normal
+ERS1351142	normal
+ERS1351141	normal
+ERS1351140	normal
+ERS1351139	normal
+ERS1351138	normal
+ERS1351137	normal
+ERS1351136	normal
+ERS1351135	normal
+ERS1351134	normal
+ERS1351133	normal
+ERS1351132	normal
+ERS1351131	normal
+ERS1351130	normal
+ERS1351129	normal
+ERS1351128	normal
+ERS1351127	normal
+ERS1351126	normal
+ERS1351125	normal
+ERS1351124	normal
+ERS1351123	normal
+ERS1351122	normal
+ERS1351121	normal
+ERS1351120	normal
+ERS1351119	normal
+ERS1351118	normal
+ERS1351117	normal
+ERS1351116	normal
+ERS1351115	normal
+ERS1351114	normal
+ERS1351113	normal
+ERS1351112	normal
+ERS1351111	normal
+ERS1351110	normal
+ERS1351109	normal
+ERS1351108	normal
+ERS1351107	normal
+ERS1351106	normal
+ERS1351105	normal
+ERS1351104	normal
+ERS1351103	normal
+ERS1351102	normal
+ERS1351101	normal
+ERS1351100	normal
+ERS1351099	normal
+ERS1351098	normal
+ERS1351097	normal
+ERS1351096	normal
+ERS1351095	normal
+ERS1351094	normal
+ERS1351093	normal
+ERS1351092	normal
+ERS1351091	normal
+ERS1351090	normal
+ERS1351089	normal
+ERS1351088	normal
+ERS1351087	normal
+ERS1351086	normal
+ERS1351085	normal
+ERS1351084	normal
+ERS1351083	normal
+ERS1351082	normal
+ERS1351081	normal
+ERS1351080	normal
+ERS1351079	normal
+ERS1351078	normal
+ERS1351077	normal
+ERS1351076	normal
+ERS1351075	normal
+ERS1351074	normal
+ERS1351073	normal
+ERS1351072	normal
+ERS1351071	normal
+ERS1351070	normal
+ERS1351069	normal
+ERS1351068	normal
+ERS1351067	normal
+ERS1351066	normal
+ERS1351065	normal
+ERS1351064	normal
+ERS1351063	normal
+ERS1351062	normal
+ERS1351061	normal
+ERS1351060	normal
+ERS1351059	normal
+ERS1351058	normal
+ERS1351057	normal
+ERS1351056	normal
+ERS1351055	normal
+ERS1351054	normal
+ERS1351053	normal
+ERS1351052	normal
+ERS1351051	normal
+ERS1351050	normal
+ERS1351049	normal
+ERS1351048	normal
+ERS1351047	normal
+ERS1351046	normal
+ERS1351045	normal
+ERS1351044	normal
+ERS1351043	normal
+ERS1351042	normal
+ERS1351041	normal
+ERS1351040	normal
+ERS1351039	normal
+ERS1351038	normal
+ERS1351037	normal
+ERS1351036	normal
+ERS1351035	normal
+ERS1351034	normal
+ERS1351033	normal
+ERS1351032	normal
+ERS1351031	normal
+ERS1351030	normal
+ERS1351029	normal
+ERS1351028	normal
+ERS1351027	normal
+ERS1351026	normal
+ERS1351025	normal
+ERS1351024	normal
+ERS1351023	normal
+ERS1351022	normal
+ERS1351021	normal
+ERS1351020	normal
+ERS1351019	normal
+ERS1351018	normal
+ERS1351017	normal
+ERS1351016	normal
+ERS1351015	normal
+ERS1351014	normal
+ERS1351013	normal
+ERS1351012	normal
+ERS1351011	normal
+ERS1351010	normal
+ERS1351009	normal
+ERS1351008	normal
+ERS1351007	normal
+ERS1351006	normal
+ERS1351005	normal
+ERS1351004	normal
+ERS1351003	normal
+ERS1351002	normal
+ERS1351001	normal
+ERS1351000	normal
+ERS1350999	normal
+ERS1350998	normal
+ERS1350997	normal
+ERS1350996	normal
+ERS1350995	normal
+ERS1350994	normal
+ERS1350993	normal
+ERS1350992	normal
+ERS1350991	normal
+ERS1350990	normal
+ERS1350989	normal
+ERS1350988	normal
+ERS1350987	normal
+ERS1350986	normal
+ERS1350985	normal
+ERS1350984	normal
+ERS1350983	normal
+ERS1350982	normal
+ERS1350981	normal
+ERS1350980	normal
+ERS1350979	normal
+ERS1350978	normal
+ERS1350977	normal
+ERS1350976	normal
+ERS1350975	normal
+ERS1350974	normal
+ERS1350973	normal
+ERS1350972	normal
+ERS1350971	normal
+ERS1350970	normal
+ERS1350969	normal
+ERS1350968	normal
+ERS1350967	normal
+ERS1350966	normal
+ERS1350965	normal
+ERS1350964	normal
+ERS1350963	normal
+ERS1350962	normal
+ERS1350961	normal
+ERS1350960	normal
+ERS1350959	normal
+ERS1350958	normal
+ERS1350957	normal
+ERS1350956	normal
+ERS1350955	normal
+ERS1350954	normal
+ERS1350953	normal
+ERS1350952	normal
+ERS1350951	normal
+ERS1350950	normal
+ERS1350949	normal
+ERS1350948	normal
+ERS1350947	normal
+ERS1350946	normal
+ERS1350945	normal
+ERS1350944	normal
+ERS1350943	normal
+ERS1350942	normal
+ERS1350941	normal
+ERS1350940	normal
+ERS1350939	normal
+ERS1350938	normal
+ERS1350937	normal
+ERS1350936	normal
+ERS1350935	normal
+ERS1350934	normal
+ERS1350933	normal
+ERS1350932	normal
+ERS1350931	normal
+ERS1350930	normal
+ERS1350929	normal
+ERS1350928	normal
+ERS1350927	normal
+ERS1350926	normal
+ERS1350925	normal
+ERS1350924	normal
+ERS1350923	normal
+ERS1350922	normal
+ERS1350921	normal
+ERS1350920	normal
+ERS1350919	normal
+ERS1350918	normal
+ERS1350917	normal
+ERS1350916	normal
+ERS1350915	normal
+ERS1350914	normal
+ERS1350913	normal
+ERS1350912	normal
+ERS1350911	normal
+ERS1350910	normal
+ERS1350909	normal
+ERS1350908	normal
+ERS1350907	normal
+ERS1350906	normal
+ERS1350905	normal
+ERS1350904	normal
+ERS1350903	normal
+ERS1350902	normal
+ERS1350901	normal
+ERS1350900	normal
+ERS1350899	normal
+ERS1350898	normal
+ERS1350897	normal
+ERS1350896	normal
+ERS1350895	normal
+ERS1350894	normal
+ERS1350893	normal
+ERS1350892	normal
+ERS1350891	normal
+ERS1350890	normal
+ERS1350889	normal
+ERS1350888	normal
+ERS1350887	normal
+ERS1350886	normal
+ERS1350885	normal
+ERS1350884	normal
+ERS1350883	normal
+ERS1350882	normal
+ERS1350881	normal
+ERS1350880	normal
+ERS1350879	normal
+ERS1350878	normal
+ERS1350877	normal
+ERS1350876	normal
+ERS1350875	normal
+ERS1350874	normal
+ERS1350873	normal
+ERS1350872	normal
+ERS1350871	normal
+ERS1350870	normal
+ERS1350869	normal
+ERS1350868	normal
+ERS1350867	normal
+ERS1350866	normal
+ERS1350865	normal
+ERS1350864	normal
+ERS1350863	normal
+ERS1350862	normal
+ERS1350861	normal
+ERS1350860	normal
+ERS1350859	normal
+ERS1350858	normal
+ERS1350857	normal
+ERS1350856	normal
+ERS1350855	normal
+ERS1350854	normal
+ERS1350853	normal
+ERS1350852	normal
+ERS1350851	normal
+ERS1350850	normal
+ERS1350849	normal
+ERS1350848	normal
+ERS1350847	normal
+ERS1350846	normal
+ERS1350845	normal
+ERS1350844	normal
+ERS1350843	normal
+ERS1350842	normal
+ERS1350841	normal
+ERS1350840	normal
+ERS1350839	normal
+ERS1350838	normal
+ERS1350837	normal
+ERS1350836	normal
+ERS1350835	normal
+ERS1350834	normal
+ERS1350833	normal
+ERS1350832	type II diabetes mellitus
+ERS1350831	type II diabetes mellitus
+ERS1350830	type II diabetes mellitus
+ERS1350829	type II diabetes mellitus
+ERS1350828	type II diabetes mellitus
+ERS1350827	type II diabetes mellitus
+ERS1350826	type II diabetes mellitus
+ERS1350825	type II diabetes mellitus
+ERS1350824	type II diabetes mellitus
+ERS1350823	type II diabetes mellitus
+ERS1350822	type II diabetes mellitus
+ERS1350821	type II diabetes mellitus
+ERS1350820	type II diabetes mellitus
+ERS1350819	type II diabetes mellitus
+ERS1350818	type II diabetes mellitus
+ERS1350817	type II diabetes mellitus
+ERS1350816	type II diabetes mellitus
+ERS1350815	type II diabetes mellitus
+ERS1350814	type II diabetes mellitus
+ERS1350813	type II diabetes mellitus
+ERS1350812	type II diabetes mellitus
+ERS1350811	type II diabetes mellitus
+ERS1350810	type II diabetes mellitus
+ERS1350809	type II diabetes mellitus
+ERS1350808	type II diabetes mellitus
+ERS1350807	type II diabetes mellitus
+ERS1350806	type II diabetes mellitus
+ERS1350805	type II diabetes mellitus
+ERS1350804	type II diabetes mellitus
+ERS1350803	type II diabetes mellitus
+ERS1350802	type II diabetes mellitus
+ERS1350801	type II diabetes mellitus
+ERS1350800	type II diabetes mellitus
+ERS1350799	type II diabetes mellitus
+ERS1350798	type II diabetes mellitus
+ERS1350797	type II diabetes mellitus
+ERS1350796	type II diabetes mellitus
+ERS1350795	type II diabetes mellitus
+ERS1350794	type II diabetes mellitus
+ERS1350793	type II diabetes mellitus
+ERS1350792	type II diabetes mellitus
+ERS1350791	type II diabetes mellitus
+ERS1350790	type II diabetes mellitus
+ERS1350789	type II diabetes mellitus
+ERS1350788	type II diabetes mellitus
+ERS1350787	type II diabetes mellitus
+ERS1350786	type II diabetes mellitus
+ERS1350785	type II diabetes mellitus
+ERS1350784	type II diabetes mellitus
+ERS1350783	type II diabetes mellitus
+ERS1350782	type II diabetes mellitus
+ERS1350781	type II diabetes mellitus
+ERS1350780	type II diabetes mellitus
+ERS1350779	type II diabetes mellitus
+ERS1350778	type II diabetes mellitus
+ERS1350777	type II diabetes mellitus
+ERS1350776	type II diabetes mellitus
+ERS1350775	type II diabetes mellitus
+ERS1350774	type II diabetes mellitus
+ERS1350773	type II diabetes mellitus
+ERS1350772	type II diabetes mellitus
+ERS1350771	type II diabetes mellitus
+ERS1350770	type II diabetes mellitus
+ERS1350769	type II diabetes mellitus
+ERS1350768	type II diabetes mellitus
+ERS1350767	type II diabetes mellitus
+ERS1350766	type II diabetes mellitus
+ERS1350765	type II diabetes mellitus
+ERS1350764	type II diabetes mellitus
+ERS1350763	type II diabetes mellitus
+ERS1350762	type II diabetes mellitus
+ERS1350761	type II diabetes mellitus
+ERS1350760	type II diabetes mellitus
+ERS1350759	type II diabetes mellitus
+ERS1350758	type II diabetes mellitus
+ERS1350757	type II diabetes mellitus
+ERS1350756	type II diabetes mellitus
+ERS1350755	type II diabetes mellitus
+ERS1350754	type II diabetes mellitus
+ERS1350753	type II diabetes mellitus
+ERS1350752	type II diabetes mellitus
+ERS1350751	type II diabetes mellitus
+ERS1350750	type II diabetes mellitus
+ERS1350749	type II diabetes mellitus
+ERS1350748	type II diabetes mellitus
+ERS1350747	type II diabetes mellitus
+ERS1350746	type II diabetes mellitus
+ERS1350745	type II diabetes mellitus
+ERS1350744	type II diabetes mellitus
+ERS1350743	type II diabetes mellitus
+ERS1350742	type II diabetes mellitus
+ERS1350741	type II diabetes mellitus
+ERS1350740	type II diabetes mellitus
+ERS1350739	type II diabetes mellitus
+ERS1350738	type II diabetes mellitus
+ERS1350737	type II diabetes mellitus
+ERS1350736	type II diabetes mellitus
+ERS1350735	type II diabetes mellitus
+ERS1350734	type II diabetes mellitus
+ERS1350733	type II diabetes mellitus
+ERS1350732	type II diabetes mellitus
+ERS1350731	type II diabetes mellitus
+ERS1350730	type II diabetes mellitus
+ERS1350729	type II diabetes mellitus
+ERS1350728	type II diabetes mellitus
+ERS1350727	type II diabetes mellitus
+ERS1350726	type II diabetes mellitus
+ERS1350725	type II diabetes mellitus
+ERS1350724	type II diabetes mellitus
+ERS1350723	type II diabetes mellitus
+ERS1350722	type II diabetes mellitus
+ERS1350721	type II diabetes mellitus
+ERS1350720	type II diabetes mellitus
+ERS1350719	type II diabetes mellitus
+ERS1350718	type II diabetes mellitus
+ERS1350717	type II diabetes mellitus
+ERS1350716	type II diabetes mellitus
+ERS1350715	type II diabetes mellitus
+ERS1350714	type II diabetes mellitus
+ERS1350713	type II diabetes mellitus
+ERS1350712	type II diabetes mellitus
+ERS1350711	type II diabetes mellitus
+ERS1350710	type II diabetes mellitus
+ERS1350709	type II diabetes mellitus
+ERS1350708	type II diabetes mellitus
+ERS1350707	type II diabetes mellitus
+ERS1350706	type II diabetes mellitus
+ERS1350705	type II diabetes mellitus
+ERS1350704	type II diabetes mellitus
+ERS1350703	type II diabetes mellitus
+ERS1350702	type II diabetes mellitus
+ERS1350701	type II diabetes mellitus
+ERS1350700	type II diabetes mellitus
+ERS1350699	type II diabetes mellitus
+ERS1350698	type II diabetes mellitus
+ERS1350697	type II diabetes mellitus
+ERS1350696	type II diabetes mellitus
+ERS1350695	type II diabetes mellitus
+ERS1350694	type II diabetes mellitus
+ERS1350693	type II diabetes mellitus
+ERS1350692	type II diabetes mellitus
+ERS1350691	type II diabetes mellitus
+ERS1350690	type II diabetes mellitus
+ERS1350689	type II diabetes mellitus
+ERS1350688	type II diabetes mellitus
+ERS1350687	type II diabetes mellitus
+ERS1350686	type II diabetes mellitus
+ERS1350685	type II diabetes mellitus
+ERS1350684	type II diabetes mellitus
+ERS1350683	type II diabetes mellitus
+ERS1350682	type II diabetes mellitus
+ERS1350681	type II diabetes mellitus
+ERS1350680	type II diabetes mellitus
+ERS1350679	type II diabetes mellitus
+ERS1350678	type II diabetes mellitus
+ERS1350677	type II diabetes mellitus
+ERS1350676	type II diabetes mellitus
+ERS1350675	type II diabetes mellitus
+ERS1350674	type II diabetes mellitus
+ERS1350673	type II diabetes mellitus
+ERS1350672	type II diabetes mellitus
+ERS1350671	type II diabetes mellitus
+ERS1350670	type II diabetes mellitus
+ERS1350669	type II diabetes mellitus
+ERS1350668	type II diabetes mellitus
+ERS1350667	type II diabetes mellitus
+ERS1350666	type II diabetes mellitus
+ERS1350665	type II diabetes mellitus
+ERS1350664	type II diabetes mellitus
+ERS1350663	type II diabetes mellitus
+ERS1350662	type II diabetes mellitus
+ERS1350661	type II diabetes mellitus
+ERS1350660	type II diabetes mellitus
+ERS1350659	type II diabetes mellitus
+ERS1350658	type II diabetes mellitus
+ERS1350657	type II diabetes mellitus
+ERS1350656	type II diabetes mellitus
+ERS1350655	type II diabetes mellitus
+ERS1350654	type II diabetes mellitus
+ERS1350653	type II diabetes mellitus
+ERS1350652	type II diabetes mellitus
+ERS1350651	type II diabetes mellitus
+ERS1350650	type II diabetes mellitus
+ERS1350649	type II diabetes mellitus
+ERS1350648	type II diabetes mellitus
+ERS1350647	type II diabetes mellitus
+ERS1350646	type II diabetes mellitus
+ERS1350645	type II diabetes mellitus
+ERS1350644	type II diabetes mellitus
+ERS1350643	type II diabetes mellitus
+ERS1350642	type II diabetes mellitus
+ERS1350641	type II diabetes mellitus
+ERS1350640	type II diabetes mellitus
+ERS1350639	type II diabetes mellitus
+ERS1350638	type II diabetes mellitus
+ERS1350637	type II diabetes mellitus
+ERS1350636	type II diabetes mellitus
+ERS1350635	type II diabetes mellitus
+ERS1350634	type II diabetes mellitus
+ERS1350633	type II diabetes mellitus
+ERS1350632	type II diabetes mellitus
+ERS1350631	type II diabetes mellitus
+ERS1350630	type II diabetes mellitus
+ERS1350629	type II diabetes mellitus
+ERS1350628	type II diabetes mellitus
+ERS1350627	type II diabetes mellitus
+ERS1350626	type II diabetes mellitus
+ERS1350625	type II diabetes mellitus
+ERS1350624	type II diabetes mellitus
+ERS1350623	type II diabetes mellitus
+ERS1350622	type II diabetes mellitus
+ERS1350621	type II diabetes mellitus
+ERS1350620	type II diabetes mellitus
+ERS1350619	type II diabetes mellitus
+ERS1350618	type II diabetes mellitus
+ERS1350617	type II diabetes mellitus
+ERS1350616	type II diabetes mellitus
+ERS1350615	type II diabetes mellitus
+ERS1350614	type II diabetes mellitus
+ERS1350613	type II diabetes mellitus
+ERS1350612	type II diabetes mellitus
+ERS1350611	type II diabetes mellitus
+ERS1350610	type II diabetes mellitus
+ERS1350609	type II diabetes mellitus
+ERS1350608	type II diabetes mellitus
+ERS1350607	type II diabetes mellitus
+ERS1350606	type II diabetes mellitus
+ERS1350605	type II diabetes mellitus
+ERS1350604	type II diabetes mellitus
+ERS1350603	type II diabetes mellitus
+ERS1350602	type II diabetes mellitus
+ERS1350601	type II diabetes mellitus
+ERS1350600	type II diabetes mellitus
+ERS1350599	type II diabetes mellitus
+ERS1350598	type II diabetes mellitus
+ERS1350597	type II diabetes mellitus
+ERS1350596	type II diabetes mellitus
+ERS1350595	type II diabetes mellitus
+ERS1350594	type II diabetes mellitus
+ERS1350593	type II diabetes mellitus
+ERS1350592	type II diabetes mellitus
+ERS1350591	type II diabetes mellitus
+ERS1350590	type II diabetes mellitus
+ERS1350589	type II diabetes mellitus
+ERS1350588	type II diabetes mellitus
+ERS1350587	type II diabetes mellitus
+ERS1350586	type II diabetes mellitus
+ERS1350585	type II diabetes mellitus
+ERS1350584	type II diabetes mellitus
+ERS1350583	type II diabetes mellitus
+ERS1350582	type II diabetes mellitus
+ERS1350581	type II diabetes mellitus
+ERS1350580	type II diabetes mellitus
+ERS1350579	type II diabetes mellitus
+ERS1350578	type II diabetes mellitus
+ERS1350577	type II diabetes mellitus
+ERS1350576	type II diabetes mellitus
+ERS1350575	type II diabetes mellitus
+ERS1350574	type II diabetes mellitus
+ERS1350573	type II diabetes mellitus
+ERS1350572	type II diabetes mellitus
+ERS1350571	type II diabetes mellitus
+ERS1350570	type II diabetes mellitus
+ERS1350569	type II diabetes mellitus
+ERS1350568	type II diabetes mellitus
+ERS1350567	type II diabetes mellitus
+ERS1350566	type II diabetes mellitus
+ERS1350565	type II diabetes mellitus
+ERS1350564	type II diabetes mellitus
+ERS1350563	type II diabetes mellitus
+ERS1350562	type II diabetes mellitus
+ERS1350561	type II diabetes mellitus
+ERS1350560	type II diabetes mellitus
+ERS1350559	type II diabetes mellitus
+ERS1350558	type II diabetes mellitus
+ERS1350557	type II diabetes mellitus
+ERS1350556	type II diabetes mellitus
+ERS1350555	type II diabetes mellitus
+ERS1350554	type II diabetes mellitus
+ERS1350553	type II diabetes mellitus
+ERS1350552	type II diabetes mellitus
+ERS1350551	type II diabetes mellitus
+ERS1350550	type II diabetes mellitus
+ERS1350549	type II diabetes mellitus
+ERS1350548	type II diabetes mellitus
+ERS1350547	type II diabetes mellitus
+ERS1350546	type II diabetes mellitus
+ERS1350545	type II diabetes mellitus
+ERS1350544	type II diabetes mellitus
+ERS1350543	type II diabetes mellitus
+ERS1350542	type II diabetes mellitus
+ERS1350541	type II diabetes mellitus
+ERS1350540	type II diabetes mellitus
+ERS1350539	type II diabetes mellitus
+ERS1350538	type II diabetes mellitus
+ERS1350537	type II diabetes mellitus
+ERS1350536	type II diabetes mellitus
+ERS1350535	type II diabetes mellitus
+ERS1350534	type II diabetes mellitus
+ERS1350533	type II diabetes mellitus
+ERS1350532	type II diabetes mellitus
+ERS1350531	type II diabetes mellitus
+ERS1350530	type II diabetes mellitus
+ERS1350529	type II diabetes mellitus
+ERS1350528	type II diabetes mellitus
+ERS1350527	type II diabetes mellitus
+ERS1350526	type II diabetes mellitus
+ERS1350525	type II diabetes mellitus
+ERS1350524	type II diabetes mellitus
+ERS1350523	type II diabetes mellitus
+ERS1350522	type II diabetes mellitus
+ERS1350521	type II diabetes mellitus
+ERS1350520	type II diabetes mellitus
+ERS1350519	type II diabetes mellitus
+ERS1350518	type II diabetes mellitus
+ERS1350517	type II diabetes mellitus
+ERS1350516	type II diabetes mellitus
+ERS1350515	type II diabetes mellitus
+ERS1350514	type II diabetes mellitus
+ERS1350513	type II diabetes mellitus
+ERS1350512	type II diabetes mellitus
+ERS1350511	type II diabetes mellitus
+ERS1350510	type II diabetes mellitus
+ERS1350509	type II diabetes mellitus
+ERS1350508	type II diabetes mellitus
+ERS1350507	type II diabetes mellitus
+ERS1350506	type II diabetes mellitus
+ERS1350505	type II diabetes mellitus
+ERS1350504	type II diabetes mellitus
+ERS1350503	type II diabetes mellitus
+ERS1350502	type II diabetes mellitus
+ERS1350501	type II diabetes mellitus
+ERS1350500	type II diabetes mellitus
+ERS1350499	type II diabetes mellitus
+ERS1350498	type II diabetes mellitus
+ERS1350497	type II diabetes mellitus
+ERS1350496	type II diabetes mellitus
+ERS1350495	type II diabetes mellitus
+ERS1350494	type II diabetes mellitus
+ERS1350493	type II diabetes mellitus
+ERS1350492	type II diabetes mellitus
+ERS1350491	type II diabetes mellitus
+ERS1350490	type II diabetes mellitus
+ERS1350489	type II diabetes mellitus
+ERS1350488	type II diabetes mellitus
+ERS1350487	type II diabetes mellitus
+ERS1350486	type II diabetes mellitus
+ERS1350485	type II diabetes mellitus
+ERS1350484	type II diabetes mellitus
+ERS1350483	type II diabetes mellitus
+ERS1350482	type II diabetes mellitus
+ERS1350481	type II diabetes mellitus
+ERS1350480	type II diabetes mellitus
+ERS1350479	type II diabetes mellitus
+ERS1350478	type II diabetes mellitus
+ERS1350477	type II diabetes mellitus
+ERS1350476	type II diabetes mellitus
+ERS1350475	type II diabetes mellitus
+ERS1350474	type II diabetes mellitus
+ERS1350473	type II diabetes mellitus
+ERS1350472	type II diabetes mellitus
+ERS1350471	type II diabetes mellitus
+ERS1350470	type II diabetes mellitus
+ERS1350469	type II diabetes mellitus
+ERS1350468	type II diabetes mellitus
+ERS1350467	type II diabetes mellitus
+ERS1350466	type II diabetes mellitus
+ERS1350465	type II diabetes mellitus
+ERS1350464	type II diabetes mellitus
+ERS1350463	type II diabetes mellitus
+ERS1350462	type II diabetes mellitus
+ERS1350461	type II diabetes mellitus
+ERS1350460	type II diabetes mellitus
+ERS1350459	type II diabetes mellitus
+ERS1350458	type II diabetes mellitus
+ERS1350457	type II diabetes mellitus
+ERS1350456	type II diabetes mellitus
+ERS1350455	type II diabetes mellitus
+ERS1350454	type II diabetes mellitus
+ERS1350453	type II diabetes mellitus
+ERS1350452	type II diabetes mellitus
+ERS1350451	type II diabetes mellitus
+ERS1350450	type II diabetes mellitus
+ERS1350449	normal
+ERS1350448	normal
+ERS1350447	normal
+ERS1350446	normal
+ERS1350445	normal
+ERS1350444	normal
+ERS1350443	normal
+ERS1350442	normal
+ERS1350441	normal
+ERS1350440	normal
+ERS1350439	normal
+ERS1350438	normal
+ERS1350437	normal
+ERS1350436	normal
+ERS1350435	normal
+ERS1350434	normal
+ERS1350433	normal
+ERS1350432	normal
+ERS1350431	normal
+ERS1350430	normal
+ERS1350429	normal
+ERS1350428	normal
+ERS1350427	normal
+ERS1350426	normal
+ERS1350425	normal
+ERS1350424	normal
+ERS1350423	normal
+ERS1350422	normal
+ERS1350421	normal
+ERS1350420	normal
+ERS1350419	normal
+ERS1350418	normal
+ERS1350417	normal
+ERS1350416	normal
+ERS1350415	normal
+ERS1350414	normal
+ERS1350413	normal
+ERS1350412	normal
+ERS1350411	normal
+ERS1350410	normal
+ERS1350409	normal
+ERS1350408	normal
+ERS1350407	normal
+ERS1350406	normal
+ERS1350405	normal
+ERS1350404	normal
+ERS1350403	normal
+ERS1350402	normal
+ERS1350401	normal
+ERS1350400	normal
+ERS1350399	normal
+ERS1350398	normal
+ERS1350397	normal
+ERS1350396	normal
+ERS1350395	normal
+ERS1350394	normal
+ERS1350393	normal
+ERS1350392	normal
+ERS1350391	normal
+ERS1350390	normal
+ERS1350389	normal
+ERS1350388	normal
+ERS1350387	normal
+ERS1350386	normal
+ERS1350385	normal
+ERS1350384	normal
+ERS1350383	normal
+ERS1350382	normal
+ERS1350381	normal
+ERS1350380	normal
+ERS1350379	normal
+ERS1350378	normal
+ERS1350377	normal
+ERS1350376	normal
+ERS1350375	normal
+ERS1350374	normal
+ERS1350373	normal
+ERS1350372	normal
+ERS1350371	normal
+ERS1350370	normal
+ERS1350369	normal
+ERS1350368	normal
+ERS1350367	normal
+ERS1350366	normal
+ERS1350365	normal
+ERS1350364	normal
+ERS1350363	normal
+ERS1350362	normal
+ERS1350361	normal
+ERS1350360	normal
+ERS1350359	normal
+ERS1350358	normal
+ERS1350357	normal
+ERS1350356	normal
+ERS1350355	normal
+ERS1350354	normal
+ERS1350353	normal
+ERS1350352	normal
+ERS1350351	normal
+ERS1350350	normal
+ERS1350349	normal
+ERS1350348	normal
+ERS1350347	normal
+ERS1350346	normal
+ERS1350345	normal
+ERS1350344	normal
+ERS1350343	normal
+ERS1350342	normal
+ERS1350341	normal
+ERS1350340	normal
+ERS1350339	normal
+ERS1350338	normal
+ERS1350337	normal
+ERS1350336	normal
+ERS1350335	normal
+ERS1350334	normal
+ERS1350333	normal
+ERS1350332	normal
+ERS1350331	normal
+ERS1350330	normal
+ERS1350329	normal
+ERS1350328	normal
+ERS1350327	normal
+ERS1350326	normal
+ERS1350325	normal
+ERS1350324	normal
+ERS1350323	normal
+ERS1350322	normal
+ERS1350321	normal
+ERS1350320	normal
+ERS1350319	normal
+ERS1350318	normal
+ERS1350317	normal
+ERS1350316	normal
+ERS1350315	normal
+ERS1350314	normal
+ERS1350313	normal
+ERS1350312	normal
+ERS1350311	normal
+ERS1350310	normal
+ERS1350309	normal
+ERS1350308	normal
+ERS1350307	normal
+ERS1350306	normal
+ERS1350305	normal
+ERS1350304	normal
+ERS1350303	normal
+ERS1350302	normal
+ERS1350301	normal
+ERS1350300	normal
+ERS1350299	normal
+ERS1350298	normal
+ERS1350297	normal
+ERS1350296	normal
+ERS1350295	normal
+ERS1350294	normal
+ERS1350293	normal
+ERS1350292	normal
+ERS1350291	normal
+ERS1350290	normal
+ERS1350289	normal
+ERS1350288	normal
+ERS1350287	normal
+ERS1350286	normal
+ERS1350285	normal
+ERS1350284	normal
+ERS1350283	normal
+ERS1350282	normal
+ERS1350281	normal
+ERS1350280	normal
+ERS1350279	normal
+ERS1350278	normal
+ERS1350277	normal
+ERS1350276	normal
+ERS1350275	normal
+ERS1350274	normal
+ERS1350273	normal
+ERS1350272	normal
+ERS1350271	normal
+ERS1350270	normal
+ERS1350269	normal
+ERS1350268	normal
+ERS1350267	normal
+ERS1350266	normal
+ERS1350265	normal
+ERS1350264	normal
+ERS1350263	normal
+ERS1350262	normal
+ERS1350261	normal
+ERS1350260	normal
+ERS1350259	normal
+ERS1350258	normal
+ERS1350257	normal
+ERS1350256	normal
+ERS1350255	normal
+ERS1350254	normal
+ERS1350253	normal
+ERS1350252	normal
+ERS1350251	normal
+ERS1350250	normal
+ERS1350249	normal
+ERS1350248	normal
+ERS1350247	normal
+ERS1350246	normal
+ERS1350245	normal
+ERS1350244	normal
+ERS1350243	normal
+ERS1350242	normal
+ERS1350241	normal
+ERS1350240	normal
+ERS1350239	normal
+ERS1350238	normal
+ERS1350237	normal
+ERS1350236	normal
+ERS1350235	normal
+ERS1350234	normal
+ERS1350233	normal
+ERS1350232	normal
+ERS1350231	normal
+ERS1350230	normal
+ERS1350229	normal
+ERS1350228	normal
+ERS1350227	normal
+ERS1350226	normal
+ERS1350225	normal
+ERS1350224	normal
+ERS1350223	normal
+ERS1350222	normal
+ERS1350221	normal
+ERS1350220	normal
+ERS1350219	normal
+ERS1350218	normal
+ERS1350217	normal
+ERS1350216	normal
+ERS1350215	normal
+ERS1350214	normal
+ERS1350213	normal
+ERS1350212	normal
+ERS1350211	normal
+ERS1350210	normal
+ERS1350209	normal
+ERS1350208	normal
+ERS1350207	normal
+ERS1350206	normal
+ERS1350205	normal
+ERS1350204	normal
+ERS1350203	normal
+ERS1350202	normal
+ERS1350201	normal
+ERS1350200	normal
+ERS1350199	normal
+ERS1350198	normal
+ERS1350197	normal
+ERS1350196	normal
+ERS1350195	normal
+ERS1350194	normal
+ERS1350193	normal
+ERS1350192	normal
+ERS1350191	normal
+ERS1350190	normal
+ERS1350189	normal
+ERS1350188	normal
+ERS1350187	normal
+ERS1350186	normal
+ERS1350185	normal
+ERS1350184	normal
+ERS1350183	normal
+ERS1350182	normal
+ERS1350181	normal
+ERS1350180	normal
+ERS1350179	normal
+ERS1350178	normal
+ERS1350177	normal
+ERS1350176	normal
+ERS1350175	normal
+ERS1350174	normal
+ERS1350173	normal
+ERS1350172	normal
+ERS1350171	normal
+ERS1350170	normal
+ERS1350169	normal
+ERS1350168	normal
+ERS1350167	normal
+ERS1350166	normal
+ERS1350165	normal
+ERS1350164	normal
+ERS1350163	normal
+ERS1350162	normal
+ERS1350161	normal
+ERS1350160	normal
+ERS1350159	normal
+ERS1350158	normal
+ERS1350157	normal
+ERS1350156	normal
+ERS1350155	normal
+ERS1350154	normal
+ERS1350153	normal
+ERS1350152	normal
+ERS1350151	normal
+ERS1350150	normal
+ERS1350149	normal
+ERS1350148	normal
+ERS1350147	normal
+ERS1350146	normal
+ERS1350145	normal
+ERS1350144	normal
+ERS1350143	normal
+ERS1350142	normal
+ERS1350141	normal
+ERS1350140	normal
+ERS1350139	normal
+ERS1350138	normal
+ERS1350137	normal
+ERS1350136	normal
+ERS1350135	normal
+ERS1350134	normal
+ERS1350133	normal
+ERS1350132	normal
+ERS1350131	normal
+ERS1350130	normal
+ERS1350129	normal
+ERS1350128	normal
+ERS1350127	normal
+ERS1350126	normal
+ERS1350125	normal
+ERS1350124	normal
+ERS1350123	normal
+ERS1350122	normal
+ERS1350121	normal
+ERS1350120	normal
+ERS1350119	normal
+ERS1350118	normal
+ERS1350117	normal
+ERS1350116	normal
+ERS1350115	normal
+ERS1350114	normal
+ERS1350113	normal
+ERS1350112	normal
+ERS1350111	normal
+ERS1350110	normal
+ERS1350109	normal
+ERS1350108	normal
+ERS1350107	normal
+ERS1350106	normal
+ERS1350105	normal
+ERS1350104	normal
+ERS1350103	normal
+ERS1350102	normal
+ERS1350101	normal
+ERS1350100	normal
+ERS1350099	normal
+ERS1350098	normal
+ERS1350097	normal
+ERS1350096	normal
+ERS1350095	normal
+ERS1350094	normal
+ERS1350093	normal
+ERS1350092	normal
+ERS1350091	normal
+ERS1350090	normal
+ERS1350089	normal
+ERS1350088	normal
+ERS1350087	normal
+ERS1350086	normal
+ERS1350085	normal
+ERS1350084	normal
+ERS1350083	normal
+ERS1350082	normal
+ERS1350081	normal
+ERS1350080	normal
+ERS1350079	normal
+ERS1350078	normal
+ERS1350077	normal
+ERS1350076	normal
+ERS1350075	normal
+ERS1350074	normal
+ERS1350073	normal
+ERS1350072	normal
+ERS1350071	normal
+ERS1350070	normal
+ERS1350069	normal
+ERS1350068	normal
+ERS1350067	normal
+ERS1350066	normal
+ERS1350065	normal
+ERS1350064	normal
+ERS1350063	normal
+ERS1350062	normal
+ERS1350061	normal
+ERS1350060	normal
+ERS1350059	normal
+ERS1350058	normal
+ERS1350057	normal
+ERS1350056	normal
+ERS1350055	normal
+ERS1350054	normal
+ERS1350053	normal
+ERS1350052	normal
+ERS1350051	normal
+ERS1350050	normal
+ERS1350049	normal
+ERS1350048	normal
+ERS1350047	normal
+ERS1350046	normal
+ERS1350045	normal
+ERS1350044	normal
+ERS1350043	normal
+ERS1350042	normal
+ERS1350041	normal
+ERS1350040	normal
+ERS1350039	normal
+ERS1350038	normal
+ERS1350037	normal
+ERS1350036	normal
+ERS1350035	normal
+ERS1350034	normal
+ERS1350033	normal
+ERS1350032	normal
+ERS1350031	normal
+ERS1350030	normal
+ERS1350029	normal
+ERS1350028	normal
+ERS1350027	normal
+ERS1350026	normal
+ERS1350025	normal
+ERS1350024	normal
+ERS1350023	normal
+ERS1350022	normal
+ERS1350021	normal
+ERS1350020	normal
+ERS1350019	normal
+ERS1350018	normal
+ERS1350017	normal
+ERS1350016	normal
+ERS1350015	normal
+ERS1350014	normal
+ERS1350013	normal
+ERS1350012	normal
+ERS1350011	normal
+ERS1350010	normal
+ERS1350009	normal
+ERS1350008	normal
+ERS1350007	normal
+ERS1350006	normal
+ERS1350005	normal
+ERS1350004	normal
+ERS1350003	normal
+ERS1350002	normal
+ERS1350001	normal
+ERS1350000	normal
+ERS1349999	normal
+ERS1349998	normal
+ERS1349997	normal
+ERS1349996	normal
+ERS1349995	normal
+ERS1349994	normal
+ERS1349993	normal
+ERS1349992	normal
+ERS1349991	normal
+ERS1349990	normal
+ERS1349989	normal
+ERS1349988	normal
+ERS1349987	normal
+ERS1349986	normal
+ERS1349985	normal
+ERS1349984	normal
+ERS1349983	normal
+ERS1349982	normal
+ERS1349981	normal
+ERS1349980	normal
+ERS1349979	normal
+ERS1349978	normal
+ERS1349977	normal
+ERS1349976	normal
+ERS1349975	normal
+ERS1349974	normal
+ERS1349973	normal
+ERS1349972	normal
+ERS1349971	normal
+ERS1349970	normal
+ERS1349969	normal
+ERS1349968	normal
+ERS1349967	normal
+ERS1349966	normal
+ERS1349965	normal
+ERS1349964	normal
+ERS1349963	normal
+ERS1349962	normal
+ERS1349961	normal
+ERS1349960	normal
+ERS1349959	normal
+ERS1349958	normal
+ERS1349957	normal
+ERS1349956	normal
+ERS1349955	normal
+ERS1349954	normal
+ERS1349953	normal
+ERS1349952	normal
+ERS1349951	normal
+ERS1349950	normal
+ERS1349949	normal
+ERS1349948	normal
+ERS1349947	normal
+ERS1349946	normal
+ERS1349945	normal
+ERS1349944	normal
+ERS1349943	normal
+ERS1349942	normal
+ERS1349941	normal
+ERS1349940	normal
+ERS1349939	normal
+ERS1349938	normal
+ERS1349937	normal
+ERS1349936	normal
+ERS1349935	normal
+ERS1349934	normal
+ERS1349933	normal
+ERS1349932	normal
+ERS1349931	normal
+ERS1349930	normal
+ERS1349929	normal
+ERS1349928	normal
+ERS1349927	normal
+ERS1349926	normal
+ERS1349925	normal
+ERS1349924	normal
+ERS1349923	normal
+ERS1349922	normal
+ERS1349921	normal
+ERS1349920	normal
+ERS1349919	normal
+ERS1349918	normal
+ERS1349917	normal
+ERS1349916	normal
+ERS1349915	normal
+ERS1349914	normal
+ERS1349913	normal
+ERS1349912	normal
+ERS1349911	normal
+ERS1349910	normal
+ERS1349909	normal
+ERS1349908	normal
+ERS1349907	normal
+ERS1349906	normal
+ERS1349905	normal
+ERS1349904	normal
+ERS1349903	normal
+ERS1349902	normal
+ERS1349901	normal
+ERS1349900	normal
+ERS1349899	normal
+ERS1349898	normal
+ERS1349897	normal
+ERS1349896	normal
+ERS1349895	normal
+ERS1349894	normal
+ERS1349893	normal
+ERS1349892	normal
+ERS1349891	normal
+ERS1349890	normal
+ERS1349889	normal
+ERS1349888	normal
+ERS1349887	normal
+ERS1349886	normal
+ERS1349885	normal
+ERS1349884	normal
+ERS1349883	normal
+ERS1349882	normal
+ERS1349881	normal
+ERS1349880	normal
+ERS1349879	normal
+ERS1349878	normal
+ERS1349877	normal
+ERS1349876	normal
+ERS1349875	normal
+ERS1349874	normal
+ERS1349873	normal
+ERS1349872	normal
+ERS1349871	normal
+ERS1349870	normal
+ERS1349869	normal
+ERS1349868	normal
+ERS1349867	normal
+ERS1349866	normal
+ERS1349865	normal
+ERS1349864	normal
+ERS1349863	normal
+ERS1349862	normal
+ERS1349861	normal
+ERS1349860	normal
+ERS1349859	normal
+ERS1349858	normal
+ERS1349857	normal
+ERS1349856	normal
+ERS1349855	normal
+ERS1349854	normal
+ERS1349853	normal
+ERS1349852	normal
+ERS1349851	normal
+ERS1349850	normal
+ERS1349849	normal
+ERS1349848	normal
+ERS1349847	normal
+ERS1349846	normal
+ERS1349845	normal
+ERS1349844	normal
+ERS1349843	normal
+ERS1349842	normal
+ERS1349841	normal
+ERS1349840	normal
+ERS1349839	normal
+ERS1349838	normal
+ERS1349837	normal
+ERS1349836	normal
+ERS1349835	normal
+ERS1349834	normal
+ERS1349833	normal
+ERS1349832	normal
+ERS1349831	normal
+ERS1349830	normal
+ERS1349829	normal
+ERS1349828	normal
+ERS1349827	normal
+ERS1349826	normal
+ERS1349825	normal
+ERS1349824	normal
+ERS1349823	normal
+ERS1349822	normal
+ERS1349821	normal
+ERS1349820	normal
+ERS1349819	normal
+ERS1349818	normal
+ERS1349817	normal
+ERS1349816	normal
+ERS1349815	normal
+ERS1349814	normal
+ERS1349813	normal
+ERS1349812	normal
+ERS1349811	normal
+ERS1349810	normal
+ERS1349809	normal
+ERS1349808	normal
+ERS1349807	normal
+ERS1349806	normal
+ERS1349805	normal
+ERS1349804	normal
+ERS1349803	normal
+ERS1349802	normal
+ERS1349801	normal
+ERS1349800	normal
+ERS1349799	normal
+ERS1349798	normal
+ERS1349797	normal
+ERS1349796	normal
+ERS1349795	normal
+ERS1349794	normal
+ERS1349793	normal
+ERS1349792	normal
+ERS1349791	normal
+ERS1349790	normal
+ERS1349789	normal
+ERS1349788	normal
+ERS1349787	normal
+ERS1349786	normal
+ERS1349785	normal
+ERS1349784	normal
+ERS1349783	normal
+ERS1349782	normal
+ERS1349781	normal
+ERS1349780	normal
+ERS1349779	normal
+ERS1349778	normal
+ERS1349777	normal
+ERS1349776	normal
+ERS1349775	normal
+ERS1349774	normal
+ERS1349773	normal
+ERS1349772	normal
+ERS1349771	normal
+ERS1349770	normal
+ERS1349769	normal
+ERS1349768	normal
+ERS1349767	normal
+ERS1349766	normal
+ERS1349765	normal
+ERS1349764	normal
+ERS1349763	normal
+ERS1349762	normal
+ERS1349761	normal
+ERS1349760	normal
+ERS1349759	normal
+ERS1349758	normal
+ERS1349757	normal
+ERS1349756	normal
+ERS1349755	normal
+ERS1349754	normal
+ERS1349753	normal
+ERS1349752	normal
+ERS1349751	normal
+ERS1349750	normal
+ERS1349749	normal
+ERS1349748	normal
+ERS1349747	normal
+ERS1349746	normal
+ERS1349745	normal
+ERS1349744	normal
+ERS1349743	normal
+ERS1349742	normal
+ERS1349741	normal
+ERS1349740	normal
+ERS1349739	normal
+ERS1349738	normal
+ERS1349737	normal
+ERS1349736	normal
+ERS1349735	normal
+ERS1349734	normal
+ERS1349733	normal
+ERS1349732	normal
+ERS1349731	normal
+ERS1349730	normal
+ERS1349729	normal
+ERS1349728	normal
+ERS1349727	normal
+ERS1349726	normal
+ERS1349725	normal
+ERS1349724	normal
+ERS1349723	normal
+ERS1349722	normal
+ERS1349721	normal
+ERS1349720	normal
+ERS1349719	normal
+ERS1349718	normal
+ERS1349717	normal
+ERS1349716	normal
+ERS1349715	normal
+ERS1349714	normal
+ERS1349713	normal
+ERS1349712	normal
+ERS1349711	normal
+ERS1349710	normal
+ERS1349709	normal
+ERS1349708	normal
+ERS1349707	normal
+ERS1349706	normal
+ERS1349705	normal
+ERS1349704	normal
+ERS1349703	normal
+ERS1349702	normal
+ERS1349701	normal
+ERS1349700	normal
+ERS1349699	normal
+ERS1349698	normal
+ERS1349697	normal
+ERS1349696	normal
+ERS1349695	normal
+ERS1349694	normal
+ERS1349693	normal
+ERS1349692	normal
+ERS1349691	normal
+ERS1349690	normal
+ERS1349689	normal
+ERS1349688	normal
+ERS1349687	normal
+ERS1349686	normal
+ERS1349685	normal
+ERS1349684	normal
+ERS1349683	normal
+ERS1349682	normal
+ERS1349681	normal
+ERS1349680	normal
+ERS1349679	normal
+ERS1349678	normal
+ERS1349677	normal
+ERS1349676	normal
+ERS1349675	normal
+ERS1349674	normal
+ERS1349673	normal
+ERS1349672	normal
+ERS1349671	normal
+ERS1349670	normal
+ERS1349669	normal
+ERS1349668	normal
+ERS1349667	normal
+ERS1349666	normal
+ERS1349665	normal
+ERS1349664	normal
+ERS1349663	normal
+ERS1349662	normal
+ERS1349661	normal
+ERS1349660	normal
+ERS1349659	normal
+ERS1349658	normal
+ERS1349657	normal
+ERS1349656	normal
+ERS1349655	normal
+ERS1349654	normal
+ERS1349653	normal
+ERS1349652	normal
+ERS1349651	normal
+ERS1349650	normal
+ERS1349649	normal
+ERS1349648	normal
+ERS1349647	normal
+ERS1349646	normal
+ERS1349645	normal
+ERS1349644	normal
+ERS1349643	normal
+ERS1349642	normal
+ERS1349641	normal
+ERS1349640	normal
+ERS1349639	normal
+ERS1349638	normal
+ERS1349637	normal
+ERS1349636	normal
+ERS1349635	normal
+ERS1349634	normal
+ERS1349633	normal
+ERS1349632	normal
+ERS1349631	normal
+ERS1349630	normal
+ERS1349629	normal
+ERS1349628	normal
+ERS1349627	normal
+ERS1349626	normal
+ERS1349625	normal
+ERS1349624	normal
+ERS1349623	normal
+ERS1349622	normal
+ERS1349621	normal
+ERS1349620	normal
+ERS1349619	normal
+ERS1349618	normal
+ERS1349617	normal
+ERS1349616	normal
+ERS1349615	normal
+ERS1349614	normal
+ERS1349613	normal
+ERS1349612	normal
+ERS1349611	normal
+ERS1349610	normal
+ERS1349609	normal
+ERS1349608	normal
+ERS1349607	normal
+ERS1349606	normal
+ERS1349605	normal
+ERS1349604	normal
+ERS1349603	normal
+ERS1349602	normal
+ERS1349601	normal
+ERS1349600	normal
+ERS1349599	normal
+ERS1349598	normal
+ERS1349597	normal
+ERS1349596	normal
+ERS1349595	normal
+ERS1349594	normal
+ERS1349593	normal
+ERS1349592	normal
+ERS1349591	normal
+ERS1349590	normal
+ERS1349589	normal
+ERS1349588	normal
+ERS1349587	normal
+ERS1349586	normal
+ERS1349585	normal
+ERS1349584	normal
+ERS1349583	normal
+ERS1349582	normal
+ERS1349581	normal
+ERS1349580	normal
+ERS1349579	normal
+ERS1349578	normal
+ERS1349577	normal
+ERS1349576	normal
+ERS1349575	normal
+ERS1349574	normal
+ERS1349573	normal
+ERS1349572	normal
+ERS1349571	normal
+ERS1349570	normal
+ERS1349569	normal
+ERS1349568	normal
+ERS1349567	normal
+ERS1349566	normal
+ERS1349565	normal
+ERS1349564	normal
+ERS1349563	normal
+ERS1349562	normal
+ERS1349561	normal
+ERS1349560	normal
+ERS1349559	normal
+ERS1349558	normal
+ERS1349557	normal
+ERS1349556	normal
+ERS1349555	normal
+ERS1349554	normal
+ERS1349553	normal
+ERS1349552	normal
+ERS1349551	normal
+ERS1349550	normal
+ERS1349549	normal
+ERS1349548	normal
+ERS1349547	normal
+ERS1349546	normal
+ERS1349545	normal
+ERS1349544	normal
+ERS1349543	normal
+ERS1349542	normal
+ERS1349541	normal
+ERS1349540	normal
+ERS1349539	normal
+ERS1349538	normal
+ERS1349537	normal
+ERS1349536	normal
+ERS1349535	normal
+ERS1349534	normal
+ERS1349533	normal
+ERS1349532	normal
+ERS1349531	normal
+ERS1349530	normal
+ERS1349529	normal
+ERS1349528	normal
+ERS1349527	normal
+ERS1349526	normal
+ERS1349525	normal
+ERS1349524	normal
+ERS1349523	normal
+ERS1349522	normal
+ERS1349521	normal
+ERS1349520	normal
+ERS1349519	normal
+ERS1349518	normal
+ERS1349517	normal
+ERS1349516	normal
+ERS1349515	normal
+ERS1349514	normal
+ERS1349513	normal
+ERS1349512	normal
+ERS1349511	normal
+ERS1349510	normal
+ERS1349509	normal
+ERS1349508	normal
+ERS1349507	normal
+ERS1349506	normal
+ERS1349505	normal
+ERS1349504	normal
+ERS1349503	normal
+ERS1349502	normal
+ERS1349501	normal
+ERS1349500	normal
+ERS1349499	normal
+ERS1349498	normal
+ERS1349497	normal
+ERS1349496	normal
+ERS1349495	normal
+ERS1349494	normal
+ERS1349493	normal
+ERS1349492	normal
+ERS1349491	normal
+ERS1349490	normal
+ERS1349489	normal
+ERS1349488	normal
+ERS1349487	normal
+ERS1349486	normal
+ERS1349485	normal
+ERS1349484	normal
+ERS1349483	normal
+ERS1349482	normal
+ERS1349481	normal
+ERS1349480	normal
+ERS1349479	normal
+ERS1349478	normal
+ERS1349477	normal
+ERS1349476	normal
+ERS1349475	normal
+ERS1349474	normal
+ERS1349473	normal
+ERS1349472	normal
+ERS1349471	normal
+ERS1349470	normal
+ERS1349469	normal
+ERS1349468	normal
+ERS1349467	normal
+ERS1349466	normal
+ERS1349465	normal
+ERS1349464	normal
+ERS1349463	normal
+ERS1349462	normal
+ERS1349461	normal
+ERS1349460	normal
+ERS1349459	normal
+ERS1349458	normal
+ERS1349457	normal
+ERS1349456	normal
+ERS1349455	normal
+ERS1349454	normal
+ERS1349453	normal
+ERS1349452	normal
+ERS1349451	normal
+ERS1349450	normal
+ERS1349449	normal
+ERS1349448	normal
+ERS1349447	normal
+ERS1349446	normal
+ERS1349445	normal
+ERS1349444	normal
+ERS1349443	normal
+ERS1349442	normal
+ERS1349441	normal
+ERS1349440	normal
+ERS1349439	normal
+ERS1349438	normal
+ERS1349437	normal
+ERS1349436	normal
+ERS1349435	normal
+ERS1349434	normal
+ERS1349433	normal
+ERS1349432	normal
+ERS1349431	normal
+ERS1349430	normal
+ERS1349429	normal
+ERS1349428	normal
+ERS1349427	normal
+ERS1349426	normal
+ERS1349425	normal
+ERS1349424	normal
+ERS1349423	normal
+ERS1349422	normal
+ERS1349421	normal
+ERS1349420	normal
+ERS1349419	normal
+ERS1349418	normal
+ERS1349417	normal
+ERS1349416	normal
+ERS1349415	normal
+ERS1349414	normal
+ERS1349413	normal
+ERS1349412	normal
+ERS1349411	normal
+ERS1349410	normal
+ERS1349409	normal
+ERS1349408	normal
+ERS1349407	normal
+ERS1349406	normal
+ERS1349405	normal
+ERS1349404	normal
+ERS1349403	normal
+ERS1349402	normal
+ERS1349401	normal
+ERS1349400	normal
+ERS1349399	normal
+ERS1349398	normal
+ERS1349397	normal
+ERS1349396	normal
+ERS1349395	normal
+ERS1349394	normal
+ERS1349393	normal
+ERS1349392	normal
+ERS1349391	normal
+ERS1349390	normal
+ERS1349389	normal
+ERS1349388	normal
+ERS1349387	normal
+ERS1349386	normal
+ERS1349385	normal
+ERS1349384	normal
+ERS1349383	normal
+ERS1349382	normal
+ERS1349381	normal
+ERS1349380	normal
+ERS1349379	normal
+ERS1349378	normal
+ERS1349377	normal
+ERS1349376	normal
+ERS1349375	normal
+ERS1349374	normal
+ERS1349373	normal
+ERS1349372	normal
+ERS1349371	normal
+ERS1349370	normal
+ERS1349369	normal
+ERS1349368	normal
+ERS1349367	normal
+ERS1349366	normal
+ERS1349365	normal
+ERS1349364	normal
+ERS1349363	normal
+ERS1349362	normal
+ERS1349361	normal
+ERS1349360	normal
+ERS1349359	normal
+ERS1349358	normal
+ERS1349357	normal
+ERS1349356	normal
+ERS1349355	normal
+ERS1349354	normal
+ERS1349353	normal
+ERS1349352	normal
+ERS1349351	normal
+ERS1349350	normal
+ERS1349349	normal
+ERS1349348	normal
+ERS1349347	normal
+ERS1349346	normal
+ERS1349345	normal
+ERS1349344	normal
+ERS1349343	normal
+ERS1349342	normal
+ERS1349341	normal
+ERS1349340	normal
+ERS1349339	normal
+ERS1349338	normal
+ERS1349337	normal
+ERS1349336	normal
+ERS1349335	normal
+ERS1349334	normal
+ERS1349333	normal
+ERS1349332	normal
+ERS1349331	normal
+ERS1349330	normal
+ERS1349329	normal
+ERS1349328	normal
+ERS1349327	normal
+ERS1349326	normal
+ERS1349325	normal
+ERS1349324	normal
+ERS1349323	normal
+ERS1349322	normal
+ERS1349321	normal
+ERS1349320	normal
+ERS1349319	normal
+ERS1349318	normal
+ERS1349317	normal
+ERS1349316	normal
+ERS1349315	normal
+ERS1349314	normal
+ERS1349313	normal
+ERS1349312	normal
+ERS1349311	normal
+ERS1349310	normal
+ERS1349309	normal
+ERS1349308	normal
+ERS1349307	normal
+ERS1349306	normal
+ERS1349305	normal
+ERS1349304	normal
+ERS1349303	normal
+ERS1349302	normal
+ERS1349301	normal
+ERS1349300	type II diabetes mellitus
+ERS1349299	type II diabetes mellitus
+ERS1349298	type II diabetes mellitus
+ERS1349297	type II diabetes mellitus
+ERS1349296	type II diabetes mellitus
+ERS1349295	type II diabetes mellitus
+ERS1349294	type II diabetes mellitus
+ERS1349293	type II diabetes mellitus
+ERS1349292	type II diabetes mellitus
+ERS1349291	type II diabetes mellitus
+ERS1349290	type II diabetes mellitus
+ERS1349289	type II diabetes mellitus
+ERS1349288	type II diabetes mellitus
+ERS1349287	type II diabetes mellitus
+ERS1349286	type II diabetes mellitus
+ERS1349285	type II diabetes mellitus
+ERS1349284	type II diabetes mellitus
+ERS1349283	type II diabetes mellitus
+ERS1349282	type II diabetes mellitus
+ERS1349281	type II diabetes mellitus
+ERS1349280	type II diabetes mellitus
+ERS1349279	type II diabetes mellitus
+ERS1349278	type II diabetes mellitus
+ERS1349277	type II diabetes mellitus
+ERS1349276	type II diabetes mellitus
+ERS1349275	type II diabetes mellitus
+ERS1349274	type II diabetes mellitus
+ERS1349273	type II diabetes mellitus
+ERS1349272	type II diabetes mellitus
+ERS1349271	type II diabetes mellitus
+ERS1349270	type II diabetes mellitus
+ERS1349269	type II diabetes mellitus
+ERS1349268	type II diabetes mellitus
+ERS1349267	type II diabetes mellitus
+ERS1349266	type II diabetes mellitus
+ERS1349265	type II diabetes mellitus
+ERS1349264	type II diabetes mellitus
+ERS1349263	type II diabetes mellitus
+ERS1349262	type II diabetes mellitus
+ERS1349261	type II diabetes mellitus
+ERS1349260	type II diabetes mellitus
+ERS1349259	type II diabetes mellitus
+ERS1349258	type II diabetes mellitus
+ERS1349257	type II diabetes mellitus
+ERS1349256	type II diabetes mellitus
+ERS1349255	type II diabetes mellitus
+ERS1349254	type II diabetes mellitus
+ERS1349253	type II diabetes mellitus
+ERS1349252	type II diabetes mellitus
+ERS1349251	type II diabetes mellitus
+ERS1349250	type II diabetes mellitus
+ERS1349249	type II diabetes mellitus
+ERS1349248	type II diabetes mellitus
+ERS1349247	type II diabetes mellitus
+ERS1349246	type II diabetes mellitus
+ERS1349245	type II diabetes mellitus
+ERS1349244	type II diabetes mellitus
+ERS1349243	type II diabetes mellitus
+ERS1349242	type II diabetes mellitus
+ERS1349241	type II diabetes mellitus
+ERS1349240	type II diabetes mellitus
+ERS1349239	type II diabetes mellitus
+ERS1349238	type II diabetes mellitus
+ERS1349237	type II diabetes mellitus
+ERS1349236	type II diabetes mellitus
+ERS1349235	type II diabetes mellitus
+ERS1349234	type II diabetes mellitus
+ERS1349233	type II diabetes mellitus
+ERS1349232	type II diabetes mellitus
+ERS1349231	type II diabetes mellitus
+ERS1349230	type II diabetes mellitus
+ERS1349229	type II diabetes mellitus
+ERS1349228	type II diabetes mellitus
+ERS1349227	type II diabetes mellitus
+ERS1349226	type II diabetes mellitus
+ERS1349225	type II diabetes mellitus
+ERS1349224	type II diabetes mellitus
+ERS1349223	type II diabetes mellitus
+ERS1349222	type II diabetes mellitus
+ERS1349221	type II diabetes mellitus
+ERS1349220	type II diabetes mellitus
+ERS1349219	type II diabetes mellitus
+ERS1349218	type II diabetes mellitus
+ERS1349217	type II diabetes mellitus
+ERS1349216	type II diabetes mellitus
+ERS1349215	type II diabetes mellitus
+ERS1349214	type II diabetes mellitus
+ERS1349213	type II diabetes mellitus
+ERS1349212	type II diabetes mellitus
+ERS1349211	type II diabetes mellitus
+ERS1349210	type II diabetes mellitus
+ERS1349209	type II diabetes mellitus
+ERS1349208	type II diabetes mellitus
+ERS1349207	type II diabetes mellitus
+ERS1349206	type II diabetes mellitus
+ERS1349205	type II diabetes mellitus
+ERS1349204	type II diabetes mellitus
+ERS1349203	type II diabetes mellitus
+ERS1349202	type II diabetes mellitus
+ERS1349201	type II diabetes mellitus
+ERS1349200	type II diabetes mellitus
+ERS1349199	type II diabetes mellitus
+ERS1349198	type II diabetes mellitus
+ERS1349197	type II diabetes mellitus
+ERS1349196	type II diabetes mellitus
+ERS1349195	type II diabetes mellitus
+ERS1349194	type II diabetes mellitus
+ERS1349193	type II diabetes mellitus
+ERS1349192	type II diabetes mellitus
+ERS1349191	type II diabetes mellitus
+ERS1349190	type II diabetes mellitus
+ERS1349189	type II diabetes mellitus
+ERS1349188	type II diabetes mellitus
+ERS1349187	type II diabetes mellitus
+ERS1349186	type II diabetes mellitus
+ERS1349185	type II diabetes mellitus
+ERS1349184	type II diabetes mellitus
+ERS1349183	type II diabetes mellitus
+ERS1349182	type II diabetes mellitus
+ERS1349181	type II diabetes mellitus
+ERS1349180	type II diabetes mellitus
+ERS1349179	type II diabetes mellitus
+ERS1349178	type II diabetes mellitus
+ERS1349177	type II diabetes mellitus
+ERS1349176	type II diabetes mellitus
+ERS1349175	type II diabetes mellitus
+ERS1349174	type II diabetes mellitus
+ERS1349173	type II diabetes mellitus
+ERS1349172	type II diabetes mellitus
+ERS1349171	type II diabetes mellitus
+ERS1349170	type II diabetes mellitus
+ERS1349169	type II diabetes mellitus
+ERS1349168	type II diabetes mellitus
+ERS1349167	type II diabetes mellitus
+ERS1349166	type II diabetes mellitus
+ERS1349165	type II diabetes mellitus
+ERS1349164	type II diabetes mellitus
+ERS1349163	type II diabetes mellitus
+ERS1349162	type II diabetes mellitus
+ERS1349161	type II diabetes mellitus
+ERS1349160	type II diabetes mellitus
+ERS1349159	type II diabetes mellitus
+ERS1349158	type II diabetes mellitus
+ERS1349157	type II diabetes mellitus
+ERS1349156	type II diabetes mellitus
+ERS1349155	type II diabetes mellitus
+ERS1349154	type II diabetes mellitus
+ERS1349153	type II diabetes mellitus
+ERS1349152	type II diabetes mellitus
+ERS1349151	type II diabetes mellitus
+ERS1349150	type II diabetes mellitus
+ERS1349149	type II diabetes mellitus
+ERS1349148	type II diabetes mellitus
+ERS1349147	type II diabetes mellitus
+ERS1349146	type II diabetes mellitus
+ERS1349145	type II diabetes mellitus
+ERS1349144	type II diabetes mellitus
+ERS1349143	type II diabetes mellitus
+ERS1349142	type II diabetes mellitus
+ERS1349141	type II diabetes mellitus
+ERS1349140	type II diabetes mellitus
+ERS1349139	type II diabetes mellitus
+ERS1349138	type II diabetes mellitus
+ERS1349137	type II diabetes mellitus
+ERS1349136	type II diabetes mellitus
+ERS1349135	type II diabetes mellitus
+ERS1349134	type II diabetes mellitus
+ERS1349133	type II diabetes mellitus
+ERS1349132	type II diabetes mellitus
+ERS1349131	type II diabetes mellitus
+ERS1349130	type II diabetes mellitus
+ERS1349129	type II diabetes mellitus
+ERS1349128	type II diabetes mellitus
+ERS1349127	type II diabetes mellitus
+ERS1349126	type II diabetes mellitus
+ERS1349125	type II diabetes mellitus
+ERS1349124	type II diabetes mellitus
+ERS1349123	type II diabetes mellitus
+ERS1349122	type II diabetes mellitus
+ERS1349121	type II diabetes mellitus
+ERS1349120	type II diabetes mellitus
+ERS1349119	type II diabetes mellitus
+ERS1349118	type II diabetes mellitus
+ERS1349117	type II diabetes mellitus
+ERS1349116	type II diabetes mellitus
+ERS1349115	type II diabetes mellitus
+ERS1349114	type II diabetes mellitus
+ERS1349113	type II diabetes mellitus
+ERS1349112	type II diabetes mellitus
+ERS1349111	type II diabetes mellitus
+ERS1349110	type II diabetes mellitus
+ERS1349109	type II diabetes mellitus
+ERS1349108	type II diabetes mellitus
+ERS1349107	type II diabetes mellitus
+ERS1349106	type II diabetes mellitus
+ERS1349105	type II diabetes mellitus
+ERS1349104	type II diabetes mellitus
+ERS1349103	type II diabetes mellitus
+ERS1349102	type II diabetes mellitus
+ERS1349101	type II diabetes mellitus
+ERS1349100	type II diabetes mellitus
+ERS1349099	type II diabetes mellitus
+ERS1349098	type II diabetes mellitus
+ERS1349097	type II diabetes mellitus
+ERS1349096	type II diabetes mellitus
+ERS1349095	type II diabetes mellitus
+ERS1349094	type II diabetes mellitus
+ERS1349093	type II diabetes mellitus
+ERS1349092	type II diabetes mellitus
+ERS1349091	type II diabetes mellitus
+ERS1349090	type II diabetes mellitus
+ERS1349089	type II diabetes mellitus
+ERS1349088	type II diabetes mellitus
+ERS1349087	type II diabetes mellitus
+ERS1349086	type II diabetes mellitus
+ERS1349085	type II diabetes mellitus
+ERS1349084	type II diabetes mellitus
+ERS1349083	type II diabetes mellitus
+ERS1349082	type II diabetes mellitus
+ERS1349081	type II diabetes mellitus
+ERS1349080	type II diabetes mellitus
+ERS1349079	type II diabetes mellitus
+ERS1349078	type II diabetes mellitus
+ERS1349077	type II diabetes mellitus
+ERS1349076	type II diabetes mellitus
+ERS1349075	type II diabetes mellitus
+ERS1349074	type II diabetes mellitus
+ERS1349073	type II diabetes mellitus
+ERS1349072	type II diabetes mellitus
+ERS1349071	type II diabetes mellitus
+ERS1349070	type II diabetes mellitus
+ERS1349069	type II diabetes mellitus
+ERS1349068	type II diabetes mellitus
+ERS1349067	type II diabetes mellitus
+ERS1349066	type II diabetes mellitus
+ERS1349065	type II diabetes mellitus
+ERS1349064	type II diabetes mellitus
+ERS1349063	type II diabetes mellitus
+ERS1349062	type II diabetes mellitus
+ERS1349061	type II diabetes mellitus
+ERS1349060	type II diabetes mellitus
+ERS1349059	type II diabetes mellitus
+ERS1349058	type II diabetes mellitus
+ERS1349057	type II diabetes mellitus
+ERS1349056	type II diabetes mellitus
+ERS1349055	type II diabetes mellitus
+ERS1349054	type II diabetes mellitus
+ERS1349053	type II diabetes mellitus
+ERS1349052	type II diabetes mellitus
+ERS1349051	type II diabetes mellitus
+ERS1349050	type II diabetes mellitus
+ERS1349049	type II diabetes mellitus
+ERS1349048	type II diabetes mellitus
+ERS1349047	type II diabetes mellitus
+ERS1349046	type II diabetes mellitus
+ERS1349045	type II diabetes mellitus
+ERS1349044	type II diabetes mellitus
+ERS1349043	type II diabetes mellitus
+ERS1349042	type II diabetes mellitus
+ERS1349041	type II diabetes mellitus
+ERS1349040	type II diabetes mellitus
+ERS1349039	type II diabetes mellitus
+ERS1349038	type II diabetes mellitus
+ERS1349037	type II diabetes mellitus
+ERS1349036	type II diabetes mellitus
+ERS1349035	type II diabetes mellitus
+ERS1349034	type II diabetes mellitus
+ERS1349033	type II diabetes mellitus
+ERS1349032	type II diabetes mellitus
+ERS1349031	type II diabetes mellitus
+ERS1349030	type II diabetes mellitus
+ERS1349029	type II diabetes mellitus
+ERS1349028	type II diabetes mellitus
+ERS1349027	type II diabetes mellitus
+ERS1349026	type II diabetes mellitus
+ERS1349025	type II diabetes mellitus
+ERS1349024	type II diabetes mellitus
+ERS1349023	type II diabetes mellitus
+ERS1349022	type II diabetes mellitus
+ERS1349021	type II diabetes mellitus
+ERS1349020	type II diabetes mellitus
+ERS1349019	type II diabetes mellitus
+ERS1349018	type II diabetes mellitus
+ERS1349017	type II diabetes mellitus
+ERS1349016	type II diabetes mellitus
+ERS1349015	type II diabetes mellitus
+ERS1349014	type II diabetes mellitus
+ERS1349013	type II diabetes mellitus
+ERS1349012	type II diabetes mellitus
+ERS1349011	type II diabetes mellitus
+ERS1349010	type II diabetes mellitus
+ERS1349009	type II diabetes mellitus
+ERS1349008	type II diabetes mellitus
+ERS1349007	type II diabetes mellitus
+ERS1349006	type II diabetes mellitus
+ERS1349005	type II diabetes mellitus
+ERS1349004	type II diabetes mellitus
+ERS1349003	type II diabetes mellitus
+ERS1349002	type II diabetes mellitus
+ERS1349001	type II diabetes mellitus
+ERS1349000	type II diabetes mellitus
+ERS1348999	type II diabetes mellitus
+ERS1348998	type II diabetes mellitus
+ERS1348997	type II diabetes mellitus
+ERS1348996	type II diabetes mellitus
+ERS1348995	type II diabetes mellitus
+ERS1348994	type II diabetes mellitus
+ERS1348993	type II diabetes mellitus
+ERS1348992	type II diabetes mellitus
+ERS1348991	type II diabetes mellitus
+ERS1348990	type II diabetes mellitus
+ERS1348989	type II diabetes mellitus
+ERS1348988	type II diabetes mellitus
+ERS1348987	type II diabetes mellitus
+ERS1348986	type II diabetes mellitus
+ERS1348985	type II diabetes mellitus
+ERS1348984	type II diabetes mellitus
+ERS1348983	type II diabetes mellitus
+ERS1348982	type II diabetes mellitus
+ERS1348981	type II diabetes mellitus
+ERS1348980	type II diabetes mellitus
+ERS1348979	type II diabetes mellitus
+ERS1348978	type II diabetes mellitus
+ERS1348977	type II diabetes mellitus
+ERS1348976	type II diabetes mellitus
+ERS1348975	type II diabetes mellitus
+ERS1348974	type II diabetes mellitus
+ERS1348973	type II diabetes mellitus
+ERS1348972	type II diabetes mellitus
+ERS1348971	type II diabetes mellitus
+ERS1348970	type II diabetes mellitus
+ERS1348969	type II diabetes mellitus
+ERS1348968	type II diabetes mellitus
+ERS1348967	type II diabetes mellitus
+ERS1348966	type II diabetes mellitus
+ERS1348965	type II diabetes mellitus
+ERS1348964	type II diabetes mellitus
+ERS1348963	type II diabetes mellitus
+ERS1348962	type II diabetes mellitus
+ERS1348961	type II diabetes mellitus
+ERS1348960	type II diabetes mellitus
+ERS1348959	type II diabetes mellitus
+ERS1348958	type II diabetes mellitus
+ERS1348957	type II diabetes mellitus
+ERS1348956	type II diabetes mellitus
+ERS1348955	type II diabetes mellitus
+ERS1348954	type II diabetes mellitus
+ERS1348953	type II diabetes mellitus
+ERS1348952	type II diabetes mellitus
+ERS1348951	type II diabetes mellitus
+ERS1348950	type II diabetes mellitus
+ERS1348949	type II diabetes mellitus
+ERS1348948	type II diabetes mellitus
+ERS1348947	type II diabetes mellitus
+ERS1348946	type II diabetes mellitus
+ERS1348945	type II diabetes mellitus
+ERS1348944	type II diabetes mellitus
+ERS1348943	type II diabetes mellitus
+ERS1348942	type II diabetes mellitus
+ERS1348941	type II diabetes mellitus
+ERS1348940	type II diabetes mellitus
+ERS1348939	type II diabetes mellitus
+ERS1348938	type II diabetes mellitus
+ERS1348937	type II diabetes mellitus
+ERS1348936	type II diabetes mellitus
+ERS1348935	type II diabetes mellitus
+ERS1348934	type II diabetes mellitus
+ERS1348933	type II diabetes mellitus
+ERS1348932	type II diabetes mellitus
+ERS1348931	type II diabetes mellitus
+ERS1348930	type II diabetes mellitus
+ERS1348929	type II diabetes mellitus
+ERS1348928	type II diabetes mellitus
+ERS1348927	type II diabetes mellitus
+ERS1348926	type II diabetes mellitus
+ERS1348925	type II diabetes mellitus
+ERS1348924	type II diabetes mellitus
+ERS1348923	type II diabetes mellitus
+ERS1348922	type II diabetes mellitus
+ERS1348921	type II diabetes mellitus
+ERS1348920	type II diabetes mellitus
+ERS1348919	type II diabetes mellitus
+ERS1348918	type II diabetes mellitus
+ERS1348917	normal
+ERS1348916	normal
+ERS1348915	normal
+ERS1348914	normal
+ERS1348913	normal
+ERS1348912	normal
+ERS1348911	normal
+ERS1348910	normal
+ERS1348909	normal
+ERS1348908	normal
+ERS1348907	normal
+ERS1348906	normal
+ERS1348905	normal
+ERS1348904	normal
+ERS1348903	normal
+ERS1348902	normal
+ERS1348901	normal
+ERS1348900	normal
+ERS1348899	normal
+ERS1348898	normal
+ERS1348897	normal
+ERS1348896	normal
+ERS1348895	normal
+ERS1348894	normal
+ERS1348893	normal
+ERS1348892	normal
+ERS1348891	normal
+ERS1348890	normal
+ERS1348889	normal
+ERS1348888	normal
+ERS1348887	normal
+ERS1348886	normal
+ERS1348885	normal
+ERS1348884	normal
+ERS1348883	normal
+ERS1348882	normal
+ERS1348881	normal
+ERS1348880	normal
+ERS1348879	normal
+ERS1348878	normal
+ERS1348877	normal
+ERS1348876	normal
+ERS1348875	normal
+ERS1348874	normal
+ERS1348873	normal
+ERS1348872	normal
+ERS1348871	normal
+ERS1348870	normal
+ERS1348869	normal
+ERS1348868	normal
+ERS1348867	normal
+ERS1348866	normal
+ERS1348865	normal
+ERS1348864	normal
+ERS1348863	normal
+ERS1348862	normal
+ERS1348861	normal
+ERS1348860	normal
+ERS1348859	normal
+ERS1348858	normal
+ERS1348857	normal
+ERS1348856	normal
+ERS1348855	normal
+ERS1348854	normal
+ERS1348853	normal
+ERS1348852	normal
+ERS1348851	normal
+ERS1348850	normal
+ERS1348849	normal
+ERS1348848	normal
+ERS1348847	normal
+ERS1348846	normal
+ERS1348845	normal
+ERS1348844	normal
+ERS1348843	normal
+ERS1348842	normal
+ERS1348841	normal
+ERS1348840	normal
+ERS1348839	normal
+ERS1348838	normal
+ERS1348837	normal
+ERS1348836	normal
+ERS1348835	normal
+ERS1348834	normal
+ERS1348833	normal
+ERS1348832	normal
+ERS1348831	normal
+ERS1348830	normal
+ERS1348829	normal
+ERS1348828	normal
+ERS1348827	normal
+ERS1348826	normal
+ERS1348825	normal
+ERS1348824	normal
+ERS1348823	normal
+ERS1348822	normal
+ERS1348821	normal
+ERS1348820	normal
+ERS1348819	normal
+ERS1348818	normal
+ERS1348817	normal
+ERS1348816	normal
+ERS1348815	normal
+ERS1348814	normal
+ERS1348813	normal
+ERS1348812	normal
+ERS1348811	normal
+ERS1348810	normal
+ERS1348809	normal
+ERS1348808	normal
+ERS1348807	normal
+ERS1348806	normal
+ERS1348805	normal
+ERS1348804	normal
+ERS1348803	normal
+ERS1348802	normal
+ERS1348801	normal
+ERS1348800	normal
+ERS1348799	normal
+ERS1348798	normal
+ERS1348797	normal
+ERS1348796	normal
+ERS1348795	normal
+ERS1348794	normal
+ERS1348793	normal
+ERS1348792	normal
+ERS1348791	normal
+ERS1348790	normal
+ERS1348789	normal
+ERS1348788	normal
+ERS1348787	normal
+ERS1348786	normal
+ERS1348785	normal
+ERS1348784	normal
+ERS1348783	normal
+ERS1348782	normal
+ERS1348781	normal
+ERS1348780	normal
+ERS1348779	normal
+ERS1348778	normal
+ERS1348777	normal
+ERS1348776	normal
+ERS1348775	normal
+ERS1348774	normal
+ERS1348773	normal
+ERS1348772	normal
+ERS1348771	normal
+ERS1348770	normal
+ERS1348769	normal
+ERS1348768	normal
+ERS1348767	normal
+ERS1348766	normal
+ERS1348765	normal
+ERS1348764	normal
+ERS1348763	normal
+ERS1348762	normal
+ERS1348761	normal
+ERS1348760	normal
+ERS1348759	normal
+ERS1348758	normal
+ERS1348757	normal
+ERS1348756	normal
+ERS1348755	normal
+ERS1348754	normal
+ERS1348753	normal
+ERS1348752	normal
+ERS1348751	normal
+ERS1348750	normal
+ERS1348749	normal
+ERS1348748	normal
+ERS1348747	normal
+ERS1348746	normal
+ERS1348745	normal
+ERS1348744	normal
+ERS1348743	normal
+ERS1348742	normal
+ERS1348741	normal
+ERS1348740	normal
+ERS1348739	normal
+ERS1348738	normal
+ERS1348737	normal
+ERS1348736	normal
+ERS1348735	normal
+ERS1348734	normal
+ERS1348733	normal
+ERS1348732	normal
+ERS1348731	normal
+ERS1348730	normal
+ERS1348729	normal
+ERS1348728	normal
+ERS1348727	normal
+ERS1348726	normal
+ERS1348725	normal
+ERS1348724	normal
+ERS1348723	normal
+ERS1348722	normal
+ERS1348721	normal
+ERS1348720	normal
+ERS1348719	normal
+ERS1348718	normal
+ERS1348717	normal
+ERS1348716	normal
+ERS1348715	normal
+ERS1348714	normal
+ERS1348713	normal
+ERS1348712	normal
+ERS1348711	normal
+ERS1348710	normal
+ERS1348709	normal
+ERS1348708	normal
+ERS1348707	normal
+ERS1348706	normal
+ERS1348705	normal
+ERS1348704	normal
+ERS1348703	normal
+ERS1348702	normal
+ERS1348701	normal
+ERS1348700	normal
+ERS1348699	normal
+ERS1348698	normal
+ERS1348697	normal
+ERS1348696	normal
+ERS1348695	normal
+ERS1348694	normal
+ERS1348693	normal
+ERS1348692	normal
+ERS1348691	normal
+ERS1348690	normal
+ERS1348689	normal
+ERS1348688	normal
+ERS1348687	normal
+ERS1348686	normal
+ERS1348685	normal
+ERS1348684	normal
+ERS1348683	normal
+ERS1348682	normal
+ERS1348681	normal
+ERS1348680	normal
+ERS1348679	normal
+ERS1348678	normal
+ERS1348677	normal
+ERS1348676	normal
+ERS1348675	normal
+ERS1348674	normal
+ERS1348673	normal
+ERS1348672	normal
+ERS1348671	normal
+ERS1348670	normal
+ERS1348669	normal
+ERS1348668	normal
+ERS1348667	normal
+ERS1348666	normal
+ERS1348665	normal
+ERS1348664	normal
+ERS1348663	normal
+ERS1348662	normal
+ERS1348661	normal
+ERS1348660	normal
+ERS1348659	normal
+ERS1348658	normal
+ERS1348657	normal
+ERS1348656	normal
+ERS1348655	normal
+ERS1348654	normal
+ERS1348653	normal
+ERS1348652	normal
+ERS1348651	normal
+ERS1348650	normal
+ERS1348649	normal
+ERS1348648	normal
+ERS1348647	normal
+ERS1348646	normal
+ERS1348645	normal
+ERS1348644	normal
+ERS1348643	normal
+ERS1348642	normal
+ERS1348641	normal
+ERS1348640	normal
+ERS1348639	normal
+ERS1348638	normal
+ERS1348637	normal
+ERS1348636	normal
+ERS1348635	normal
+ERS1348634	normal
+ERS1348633	normal
+ERS1348632	normal
+ERS1348631	normal
+ERS1348630	normal
+ERS1348629	normal
+ERS1348628	normal
+ERS1348627	normal
+ERS1348626	normal
+ERS1348625	normal
+ERS1348624	normal
+ERS1348623	normal
+ERS1348622	normal
+ERS1348621	normal
+ERS1348620	normal
+ERS1348619	normal
+ERS1348618	normal
+ERS1348617	normal
+ERS1348616	normal
+ERS1348615	normal
+ERS1348614	normal
+ERS1348613	normal
+ERS1348612	normal
+ERS1348611	normal
+ERS1348610	normal
+ERS1348609	normal
+ERS1348608	normal
+ERS1348607	normal
+ERS1348606	normal
+ERS1348605	normal
+ERS1348604	normal
+ERS1348603	normal
+ERS1348602	normal
+ERS1348601	normal
+ERS1348600	normal
+ERS1348599	normal
+ERS1348598	normal
+ERS1348597	normal
+ERS1348596	normal
+ERS1348595	normal
+ERS1348594	normal
+ERS1348593	normal
+ERS1348592	normal
+ERS1348591	normal
+ERS1348590	normal
+ERS1348589	normal
+ERS1348588	normal
+ERS1348587	normal
+ERS1348586	normal
+ERS1348585	normal
+ERS1348584	normal
+ERS1348583	normal
+ERS1348582	normal
+ERS1348581	normal
+ERS1348580	normal
+ERS1348579	normal
+ERS1348578	normal
+ERS1348577	normal
+ERS1348576	normal
+ERS1348575	normal
+ERS1348574	normal
+ERS1348573	normal
+ERS1348572	normal
+ERS1348571	normal
+ERS1348570	normal
+ERS1348569	normal
+ERS1348568	normal
+ERS1348567	normal
+ERS1348566	normal
+ERS1348565	normal
+ERS1348564	normal
+ERS1348563	normal
+ERS1348562	normal
+ERS1348561	normal
+ERS1348560	normal
+ERS1348559	normal
+ERS1348558	normal
+ERS1348557	normal
+ERS1348556	normal
+ERS1348555	normal
+ERS1348554	normal
+ERS1348553	normal
+ERS1348552	normal
+ERS1348551	normal
+ERS1348550	normal
+ERS1348549	normal
+ERS1348548	normal
+ERS1348547	normal
+ERS1348546	normal
+ERS1348545	normal
+ERS1348544	normal
+ERS1348543	normal
+ERS1348542	normal
+ERS1348541	normal
+ERS1348540	normal
+ERS1348539	normal
+ERS1348538	normal
+ERS1348537	normal
+ERS1348536	normal
+ERS1348535	normal
+ERS1348534	normal
+ERS1348533	normal
+ERS1348532	normal
+ERS1348531	normal
+ERS1348530	normal
+ERS1348529	normal
+ERS1348528	normal
+ERS1348527	normal
+ERS1348526	normal
+ERS1348525	normal
+ERS1348524	normal
+ERS1348523	normal
+ERS1348522	normal
+ERS1348521	normal
+ERS1348520	normal
+ERS1348519	normal
+ERS1348518	normal
+ERS1348517	normal
+ERS1348516	normal
+ERS1348515	normal
+ERS1348514	normal
+ERS1348513	normal
+ERS1348512	normal
+ERS1348511	normal
+ERS1348510	normal
+ERS1348509	normal
+ERS1348508	normal
+ERS1348507	normal
+ERS1348506	normal
+ERS1348505	normal
+ERS1348504	normal
+ERS1348503	normal
+ERS1348502	normal
+ERS1348501	normal
+ERS1348500	normal
+ERS1348499	normal
+ERS1348498	normal
+ERS1348497	normal
+ERS1348496	normal
+ERS1348495	normal
+ERS1348494	normal
+ERS1348493	normal
+ERS1348492	normal
+ERS1348491	normal
+ERS1348490	normal
+ERS1348489	normal
+ERS1348488	normal
+ERS1348487	normal
+ERS1348486	normal
+ERS1348485	normal
+ERS1348484	normal
+ERS1348483	normal
+ERS1348482	normal
+ERS1348481	normal
+ERS1348480	normal
+ERS1348479	normal
+ERS1348478	normal
+ERS1348477	normal
+ERS1348476	normal
+ERS1348475	normal
+ERS1348474	normal
+ERS1348473	normal
+ERS1348472	normal
+ERS1348471	normal
+ERS1348470	normal

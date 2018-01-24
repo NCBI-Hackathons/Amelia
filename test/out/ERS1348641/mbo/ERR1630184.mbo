@@ -1,0 +1,22 @@
+# MAGICBLAST 1.3.0
+# magicblast -sra ERR1630184 -db snp_flanks -out /home/ubuntu/test/out/ERS1348641/mbo/ERR1630184.mbo -outfmt tabular -parse_deflines T -num_threads 1 -no_unaligned -splice F 
+# Fields: query acc.	reference acc.	% identity	not used	not used	not used	query start	query end	reference start	reference end	not used	not used	score	query strand	reference strand	query length	BTOP	num placements	not used	compartment	left overhang	right overhang	mate reference	mate ref. start	composite score
+ERR1630184.1700.1	170	100	0	0	0	2	25	50	27	0	99	24	plus	minus	43	24	1	-	1:0	T	GGGCCTTTGGGGTGTAGG	-	-	24
+ERR1630184.6217.1	169	100	0	0	0	19	43	1	25	0	99	25	plus	plus	43	25	1	-	1:1	TTCCACCAGGTGTGAGCC	-	-	-	25
+ERR1630184.7155.1	169	100	0	0	0	1	36	36	1	0	99	36	plus	minus	43	36	1	-	1:2	-	TTCCACC	-	-	36
+ERR1630184.8747.1	112	100	0	0	0	7	43	4	40	0	99	37	plus	plus	43	37	1	-	1:3	CTTGAT	-	-	-	37
+ERR1630184.14727.1	170	97.6744	0	0	0	1	43	5	47	0	99	38	plus	plus	43	21CT21	1	-	1:4	-	-	-	-	38
+ERR1630184.21291.1	112	100	0	0	0	1	43	8	50	0	99	43	plus	plus	43	43	1	-	1:5	-	-	-	-	43
+ERR1630184.26365.1	170	97.561	0	0	0	1	41	10	50	0	99	36	plus	plus	43	16CT24	1	-	1:6	-	TG	-	-	36
+ERR1630184.31477.1	2	100	0	0	0	8	29	22	1	0	99	22	plus	minus	43	22	1	-	1:7	CAAAGCC	GGCGGCGGGGGGGG	-	-	22
+ERR1630184.38552.1	169	100	0	0	0	13	43	1	31	0	99	31	plus	plus	43	31	1	-	1:8	TTCCACCAGGTG	-	-	-	31
+ERR1630184.57089.1	2	97.1429	0	0	0	1	35	35	1	0	99	30	plus	minus	43	9TC25	1	-	1:9	-	GGCGGCGG	-	-	30
+ERR1630184.57152.1	170	97.0588	0	0	0	1	34	17	50	0	99	29	plus	plus	43	9CT24	1	-	1:10	-	TGGGGCAGG	-	-	29
+ERR1630184.58918.1	112	100	0	0	0	1	39	13	51	0	99	39	plus	plus	43	39	1	-	1:11	-	TGCT	-	-	39
+ERR1630184.59676.1	157	96.6667	0	0	0	14	43	51	22	0	99	25	plus	minus	43	25GC4	1	-	1:12	GGCCCTCTGGGGA	-	-	-	25
+ERR1630184.78254.1	169	100	0	0	0	1	43	4	46	0	99	43	plus	plus	43	43	1	-	1:13	-	-	-	-	43
+ERR1630184.82109.1	169	100	0	0	0	1	36	1	36	0	99	36	plus	plus	43	36	1	-	1:14	-	CTGTCTC	-	-	36
+ERR1630184.86649.1	170	97.619	0	0	0	2	43	50	9	0	99	37	plus	minus	43	24GA17	1	-	1:15	T	-	-	-	37
+ERR1630184.96773.1	169	100	0	0	0	1	37	49	13	0	99	37	plus	minus	43	37	1	-	1:16	-	CTGTCT	-	-	37
+ERR1630184.107530.1	170	97.3684	0	0	0	6	43	1	38	0	99	33	plus	plus	43	25CT12	1	-	1:17	CGTTC	-	-	-	33
+ERR1630184.123914.1	169	100	0	0	0	1	39	13	51	0	99	39	plus	plus	43	39	1	-	1:18	-	CGCC	-	-	39

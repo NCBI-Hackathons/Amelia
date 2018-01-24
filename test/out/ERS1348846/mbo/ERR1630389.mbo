@@ -1,0 +1,26 @@
+# MAGICBLAST 1.3.0
+# magicblast -sra ERR1630389 -db snp_flanks -out /home/ubuntu/test/out/ERS1348846/mbo/ERR1630389.mbo -outfmt tabular -parse_deflines T -num_threads 1 -no_unaligned -splice F 
+# Fields: query acc.	reference acc.	% identity	not used	not used	not used	query start	query end	reference start	reference end	not used	not used	score	query strand	reference strand	query length	BTOP	num placements	not used	compartment	left overhang	right overhang	mate reference	mate ref. start	composite score
+ERR1630389.48574.1	112	100	0	0	0	1	34	37	4	0	99	34	plus	minus	43	34	1	-	1:0	-	CTTGATGGC	-	-	34
+ERR1630389.58137.1	112	100	0	0	0	1	34	37	4	0	99	34	plus	minus	43	34	1	-	1:1	-	CTTGATGGC	-	-	34
+ERR1630389.80062.1	169	100	0	0	0	1	41	41	1	0	99	41	plus	minus	43	41	1	-	1:2	-	TT	-	-	41
+ERR1630389.171611.1	170	97.6744	0	0	0	1	43	7	49	0	99	38	plus	plus	43	19CT23	1	-	1:3	-	-	-	-	38
+ERR1630389.174225.1	2	97.2222	0	0	0	1	36	36	1	0	99	31	plus	minus	43	10TC25	1	-	1:4	-	GGCGGCG	-	-	31
+ERR1630389.192817.1	169	100	0	0	0	1	41	41	1	0	99	41	plus	minus	43	41	1	-	1:5	-	CT	-	-	41
+ERR1630389.195882.1	157	97.6744	0	0	0	1	43	2	44	0	99	38	plus	plus	43	24CG18	1	-	1:6	-	-	-	-	38
+ERR1630389.225776.1	2	97.1429	0	0	0	1	35	37	3	0	99	30	plus	minus	43	11TC23	1	-	1:7	-	AAGCTATC	-	-	30
+ERR1630389.252518.1	157	97.6744	0	0	0	1	43	8	50	0	99	38	plus	plus	43	18CG24	1	-	1:8	-	-	-	-	38
+ERR1630389.253393.1	169	100	0	0	0	13	43	1	31	0	99	31	plus	plus	43	31	1	-	1:9	TTCCACCAGGTG	-	-	-	31
+ERR1630389.271219.1	112	100	0	0	0	16	43	4	31	0	99	28	plus	plus	43	28	1	-	1:10	CTTGATGGCCTCTTC	-	-	-	28
+ERR1630389.274437.1	157	96.9697	0	0	0	1	33	19	51	0	99	28	plus	plus	43	7CG25	1	-	1:11	-	GGCCCTCTGG	-	-	28
+ERR1630389.284519.1	170	97.0588	0	0	0	1	34	17	50	0	99	29	plus	plus	43	9CT24	1	-	1:12	-	TGGGGCAGG	-	-	29
+ERR1630389.331522.1	112	100	0	0	0	2	43	4	45	0	99	42	plus	plus	43	42	1	-	1:13	C	-	-	-	42
+ERR1630389.366710.1	112	100	0	0	0	1	43	51	9	0	99	43	plus	minus	43	43	1	-	1:14	-	-	-	-	43
+ERR1630389.371814.1	169	96.875	0	0	0	1	32	20	51	0	99	27	plus	plus	43	19TC12	1	-	1:15	-	CGCCGGGAGGC	-	-	27
+ERR1630389.379971.1	169	100	0	0	0	1	36	39	4	0	99	36	plus	minus	43	36	1	-	1:16	-	CTGTCTC	-	-	36
+ERR1630389.380391.1	112	100	0	0	0	1	38	13	50	0	99	38	plus	plus	43	38	1	-	1:17	-	TCTCT	-	-	38
+ERR1630389.393752.1	157	100	0	0	0	15	39	51	27	0	99	25	plus	minus	43	25	1	-	1:18	GGCCCTCTGGGGAC	GCAT	-	-	25
+ERR1630389.405634.1	112	100	0	0	0	21	43	4	26	0	99	23	plus	plus	43	23	1	-	1:19	CTTGATGGCCTCTTCTGATG	-	-	-	23
+ERR1630389.423269.1	112	100	0	0	0	17	43	4	30	0	99	27	plus	plus	43	27	1	-	1:20	CTTGATGGCCTCTTCT	-	-	-	27
+ERR1630389.448376.1	112	100	0	0	0	1	41	11	51	0	99	41	plus	plus	43	41	1	-	1:21	-	TG	-	-	41
+ERR1630389.458873.1	170	97.5	0	0	0	1	40	7	46	0	99	35	plus	plus	43	19CT20	1	-	1:22	-	TCT	-	-	35

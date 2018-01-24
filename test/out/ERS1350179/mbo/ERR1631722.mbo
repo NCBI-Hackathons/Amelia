@@ -1,0 +1,20 @@
+# MAGICBLAST 1.3.0
+# magicblast -sra ERR1631722 -db snp_flanks -out /home/ubuntu/test/out/ERS1350179/mbo/ERR1631722.mbo -outfmt tabular -parse_deflines T -num_threads 1 -no_unaligned -splice F 
+# Fields: query acc.	reference acc.	% identity	not used	not used	not used	query start	query end	reference start	reference end	not used	not used	score	query strand	reference strand	query length	BTOP	num placements	not used	compartment	left overhang	right overhang	mate reference	mate ref. start	composite score
+ERR1631722.906.1	39	100	0	0	0	1	43	45	3	0	99	43	plus	minus	43	43	1	-	1:0	-	-	-	-	43
+ERR1631722.9800.1	138	97.6744	0	0	0	1	43	46	4	0	99	38	plus	minus	43	20TC22	1	-	1:1	-	-	-	-	38
+ERR1631722.20015.1	126	100	0	0	0	1	23	23	1	0	99	23	plus	minus	43	23	1	-	1:2	-	GCTATAGGGTAAATACCTGT	-	-	23
+ERR1631722.30783.1	126	100	0	0	0	1	22	22	1	0	99	22	plus	minus	43	22	1	-	1:3	-	GCTATAGGGTAAATACTGTCT	-	-	22
+ERR1631722.52757.1	126	100	0	0	0	18	39	3	24	0	99	22	plus	plus	43	22	1	-	1:4	ATGCTATAGGGTAAATA	AAAA	-	-	22
+ERR1631722.57157.1	106	100	0	0	0	12	35	1	24	0	99	24	plus	plus	43	24	1	-	1:5	CCATCCACGCC	CTTCAAGG	-	-	24
+ERR1631722.71421.1	15	100	0	0	0	11	43	1	33	0	99	33	plus	plus	43	33	1	-	1:6	TGTGGAGACC	-	-	-	33
+ERR1631722.71756.1	137	97.619	0	0	0	1	42	43	2	0	99	37	plus	minus	43	17CA24	1	-	1:7	-	T	-	-	37
+ERR1631722.72367.1	126	100	0	0	0	14	35	1	22	0	99	22	plus	plus	43	22	1	-	1:8	GCTATAGGGTAAA	TAACTGTC	-	-	22
+ERR1631722.85680.1	121	100	0	0	0	4	28	25	1	0	99	25	plus	minus	43	25	1	-	1:9	AAC	ATGCTTTGTTTCTGT	-	-	25
+ERR1631722.102139.1	140	100	0	0	0	1	32	20	51	0	99	32	plus	plus	43	32	1	-	1:10	-	AACATTGGCTG	-	-	32
+ERR1631722.102382.1	135	100	0	0	0	1	34	18	51	0	99	34	plus	plus	43	34	1	-	1:11	-	GAGCCTTAG	-	-	34
+ERR1631722.113849.1	135	100	0	0	0	12	43	51	20	0	99	32	plus	minus	43	32	1	-	1:12	GAGCCTTAGTC	-	-	-	32
+ERR1631722.125501.1	129	100	0	0	0	13	43	9	39	0	99	31	plus	plus	43	31	1	-	1:13	TCTGTCCAGGGG	-	-	-	31
+ERR1631722.136006.1	126	100	0	0	0	1	22	22	1	0	99	22	plus	minus	43	22	1	-	1:14	-	GCTATAGGGTAAATACGGGCC	-	-	22
+ERR1631722.139496.1	140	100	0	0	0	1	43	8	50	0	99	43	plus	plus	43	43	1	-	1:15	-	-	-	-	43
+ERR1631722.143509.1	9	100	0	0	0	1	43	6	48	0	99	43	plus	plus	43	43	1	-	1:16	-	-	-	-	43

@@ -1,0 +1,19 @@
+# MAGICBLAST 1.3.0
+# magicblast -sra ERR1632464 -db snp_flanks -out /home/ubuntu/test/out/ERS1350921/mbo/ERR1632464.mbo -outfmt tabular -parse_deflines T -num_threads 1 -no_unaligned -splice F 
+# Fields: query acc.	reference acc.	% identity	not used	not used	not used	query start	query end	reference start	reference end	not used	not used	score	query strand	reference strand	query length	BTOP	num placements	not used	compartment	left overhang	right overhang	mate reference	mate ref. start	composite score
+ERR1632464.67.1	112	100	0	0	0	5	43	4	42	0	99	39	plus	plus	43	39	1	-	1:0	ACGC	-	-	-	39
+ERR1632464.265.1	112	100	0	0	0	1	31	34	4	0	99	31	plus	minus	43	31	1	-	1:1	-	ACGCAAAGGCCC	-	-	31
+ERR1632464.316.1	112	100	0	0	0	1	39	42	4	0	99	39	plus	minus	43	39	1	-	1:2	-	ACGC	-	-	39
+ERR1632464.468.1	169	100	0	0	0	1	43	43	1	0	99	43	plus	minus	43	43	1	-	1:3	-	-	-	-	43
+ERR1632464.905.1	2	100	0	0	0	3	27	25	1	0	99	25	plus	minus	43	25	1	-	1:4	AG	GGCGGCGGGTGCTGTC	-	-	25
+ERR1632464.1038.1	112	100	0	0	0	1	43	51	9	0	99	43	plus	minus	43	43	1	-	1:5	-	-	-	-	43
+ERR1632464.1328.1	157	100	0	0	0	22	43	51	30	0	99	22	plus	minus	43	22	1	-	1:6	GGCCCTCTGGGGACCTGACCC	-	-	-	22
+ERR1632464.1329.1	170	97.6744	0	0	0	1	43	48	6	0	99	38	plus	minus	43	22GA20	1	-	1:7	-	-	-	-	38
+ERR1632464.1412.1	157	97.6744	0	0	0	1	43	8	50	0	99	38	plus	plus	43	18CG24	1	-	1:8	-	-	-	-	38
+ERR1632464.1596.1	157	97.3684	0	0	0	1	38	14	51	0	99	33	plus	plus	43	12CG25	1	-	1:9	-	GGCCC	-	-	33
+ERR1632464.1623.1	2	96.5517	0	0	0	2	30	1	29	0	99	20	plus	plus	43	25AG3	1	-	1:10	G	CTGTCTCTTATAC	-	-	20
+ERR1632464.2378.1	169	100	0	0	0	1	40	12	51	0	99	40	plus	plus	43	40	1	-	1:11	-	CGC	-	-	40
+ERR1632464.2441.1	169	97.6744	0	0	0	1	43	49	7	0	99	38	plus	minus	43	20TC22	1	-	1:12	-	-	-	-	38
+ERR1632464.2662.1	169	100	0	0	0	7	43	1	37	0	99	37	plus	plus	43	37	1	-	1:13	TTCCAC	-	-	-	37
+ERR1632464.3097.1	157	96.7742	0	0	0	13	43	51	21	0	99	26	plus	minus	43	25GC5	1	-	1:14	GGCCCTCTGGGG	-	-	-	26
+ERR1632464.3144.1	157	95.3488	0	0	0	1	43	45	3	0	99	33	plus	minus	43	19GC9CG13	1	-	1:15	-	-	-	-	33

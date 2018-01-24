@@ -1,0 +1,23 @@
+# MAGICBLAST 1.3.0
+# magicblast -sra ERR1631715 -db snp_flanks -out /home/ubuntu/test/out/ERS1350172/mbo/ERR1631715.mbo -outfmt tabular -parse_deflines T -num_threads 1 -no_unaligned -splice F 
+# Fields: query acc.	reference acc.	% identity	not used	not used	not used	query start	query end	reference start	reference end	not used	not used	score	query strand	reference strand	query length	BTOP	num placements	not used	compartment	left overhang	right overhang	mate reference	mate ref. start	composite score
+ERR1631715.21252.1	140	100	0	0	0	1	35	35	1	0	99	35	plus	minus	43	35	1	-	1:0	-	GACTGCCT	-	-	35
+ERR1631715.21823.1	126	100	0	0	0	17	40	1	24	0	99	24	plus	plus	43	24	1	-	1:1	GCTATAGGGTAAATAC	TGT	-	-	24
+ERR1631715.68341.1	126	100	0	0	0	1	20	20	1	0	99	20	plus	minus	43	20	1	-	1:2	-	GCTATAGGGTAAATACGGGCCCT	-	-	20
+ERR1631715.70845.1	126	100	0	0	0	1	22	22	1	0	99	22	plus	minus	43	22	1	-	1:3	-	GCTATAGGGTAAATACGGGCC	-	-	22
+ERR1631715.95239.1	140	100	0	0	0	16	43	1	28	0	99	28	plus	plus	43	28	1	-	1:4	GGCTGCCTGCAGCAG	-	-	-	28
+ERR1631715.116023.1	57	100	0	0	0	1	43	47	5	0	99	43	plus	minus	43	43	1	-	1:5	-	-	-	-	43
+ERR1631715.128217.1	126	100	0	0	0	16	35	1	20	0	99	20	plus	plus	43	20	1	-	1:6	GCTATAGGGTAAATA	CTGTCTCT	-	-	20
+ERR1631715.144559.1	191	96.875	0	0	0	12	43	51	20	0	99	27	plus	minus	43	25GA6	1	-	1:7	AGGTTCATTTC	-	-	-	27
+ERR1631715.221032.1	57	100	0	0	0	5	43	1	39	0	99	39	plus	plus	43	39	1	-	1:8	TGCG	-	-	-	39
+ERR1631715.245415.1	126	100	0	0	0	17	40	1	24	0	99	24	plus	plus	43	24	1	-	1:9	GCTATAGGGTAAATAC	TGT	-	-	24
+ERR1631715.285038.1	126	100	0	0	0	1	23	23	1	0	99	23	plus	minus	43	23	1	-	1:10	-	GCTATAGGGTAAATACGGGC	-	-	23
+ERR1631715.317002.1	140	100	0	0	0	1	33	33	1	0	99	33	plus	minus	43	33	1	-	1:11	-	GGCTGCCTGC	-	-	33
+ERR1631715.327031.1	126	100	0	0	0	23	43	24	4	0	99	21	plus	minus	43	21	1	-	1:12	TGTCTCTTATACACATCTGACG	-	-	-	21
+ERR1631715.431391.1	121	97.619	0	0	0	1	42	43	2	0	99	37	plus	minus	43	17TC24	1	-	1:13	-	C	-	-	37
+ERR1631715.451018.1	2	100	0	0	0	18	40	1	23	0	99	23	plus	plus	43	23	1	-	1:14	GGCGGCGGGTGTGGGGC	CTG	-	-	23
+ERR1631715.454019.1	57	100	0	0	0	5	43	1	39	0	99	39	plus	plus	43	39	1	-	1:15	TGCG	-	-	-	39
+ERR1631715.460754.1	126	100	0	0	0	1	20	5	24	0	99	20	plus	plus	43	20	1	-	1:16	-	AAAAAAAAAAAAAAAAAAAAAAA	-	-	20
+ERR1631715.500364.1	57	100	0	0	0	1	39	39	1	0	99	39	plus	minus	43	39	1	-	2:0	-	TGCG	-	-	39
+ERR1631715.506561.1	140	100	0	0	0	20	43	51	28	0	99	24	plus	minus	43	24	1	-	2:1	AACATTGGCTGGGGAACAG	-	-	-	24
+ERR1631715.514844.1	57	100	0	0	0	1	43	3	45	0	99	43	plus	plus	43	43	1	-	2:2	-	-	-	-	43

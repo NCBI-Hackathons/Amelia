@@ -1,0 +1,23 @@
+# MAGICBLAST 1.3.0
+# magicblast -sra ERR1631876 -db snp_flanks -out /home/ubuntu/test/out/ERS1350333/mbo/ERR1631876.mbo -outfmt tabular -parse_deflines T -num_threads 1 -no_unaligned -splice F 
+# Fields: query acc.	reference acc.	% identity	not used	not used	not used	query start	query end	reference start	reference end	not used	not used	score	query strand	reference strand	query length	BTOP	num placements	not used	compartment	left overhang	right overhang	mate reference	mate ref. start	composite score
+ERR1631876.5513.1	126	100	0	0	0	1	20	20	1	0	99	20	plus	minus	43	20	1	-	1:0	-	GCTATAGGGTAAATACGGGCCCT	-	-	20
+ERR1631876.14969.1	112	100	0	0	0	1	38	14	51	0	99	38	plus	plus	43	38	1	-	1:1	-	GCCGG	-	-	38
+ERR1631876.15397.1	170	100	0	0	0	21	43	50	28	0	99	23	plus	minus	43	23	1	-	1:2	TGGGGCAGGTGGAGCTGGGC	-	-	-	23
+ERR1631876.19793.1	23	96.7742	0	0	0	13	43	1	31	0	99	26	plus	plus	43	5AG25	1	-	1:3	GAAGTAGCACAC	-	-	-	26
+ERR1631876.22653.1	169	100	0	0	0	1	43	8	50	0	99	43	plus	plus	43	43	1	-	1:4	-	-	-	-	43
+ERR1631876.24015.1	121	97.6744	0	0	0	1	43	9	51	0	99	38	plus	plus	43	17AG25	1	-	1:5	-	-	-	-	38
+ERR1631876.25618.1	150	100	0	0	0	11	35	46	22	0	99	25	plus	minus	43	25	1	-	1:6	TGTCCTCCAG	CTGTCTCT	-	-	25
+ERR1631876.40692.1	110	100	0	0	0	1	33	19	51	0	99	33	plus	plus	43	33	1	-	1:7	-	CAGGCTCTGT	-	-	33
+ERR1631876.40909.1	2	100	0	0	0	4	28	25	1	0	99	25	plus	minus	43	25	1	-	1:8	AGC	GGCGGCGGGTGTGGG	-	-	25
+ERR1631876.56368.1	57	100	0	0	0	5	43	1	39	0	99	39	plus	plus	43	39	1	-	1:9	TGCG	-	-	-	39
+ERR1631876.73970.1	2	97.2222	0	0	0	2	37	1	36	0	99	27	plus	plus	43	25AG10	1	-	1:10	G	CTGTCT	-	-	27
+ERR1631876.79594.1	126	100	0	0	0	8	31	24	1	0	99	24	plus	minus	43	24	1	-	1:11	GAAAAAA	GCTATAGGGCTG	-	-	24
+ERR1631876.81985.1	23	100	0	0	0	19	43	51	27	0	99	25	plus	minus	43	25	1	-	1:12	GTGGGAGGTGCTTTGCAA	-	-	-	25
+ERR1631876.88393.1	149	100	0	0	0	19	43	1	25	0	99	25	plus	plus	43	25	1	-	1:13	CAGCAGGTGGCTCTGGCC	-	-	-	25
+ERR1631876.89353.1	170	97.0588	0	0	0	1	34	17	50	0	99	29	plus	plus	43	9CT24	1	-	1:14	-	TGGGGCAGG	-	-	29
+ERR1631876.99262.1	57	100	0	0	0	1	43	50	8	0	99	43	plus	minus	43	43	1	-	1:15	-	-	-	-	43
+ERR1631876.103916.1	140	100	0	0	0	1	43	8	50	0	99	43	plus	plus	43	43	1	-	1:16	-	-	-	-	43
+ERR1631876.104780.1	191	97.4359	0	0	0	5	43	51	13	0	99	34	plus	minus	43	25GA13	1	-	1:17	AGGT	-	-	-	34
+ERR1631876.105062.1	126	100	0	0	0	1	22	22	1	0	99	22	plus	minus	43	22	1	-	1:18	-	GCTATAGGGTCTGTCTCTTAT	-	-	22
+ERR1631876.114625.1	57	100	0	0	0	1	43	3	45	0	99	43	plus	plus	43	43	1	-	1:19	-	-	-	-	43

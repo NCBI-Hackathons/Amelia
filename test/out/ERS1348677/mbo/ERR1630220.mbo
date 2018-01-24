@@ -1,0 +1,18 @@
+# MAGICBLAST 1.3.0
+# magicblast -sra ERR1630220 -db snp_flanks -out /home/ubuntu/test/out/ERS1348677/mbo/ERR1630220.mbo -outfmt tabular -parse_deflines T -num_threads 1 -no_unaligned -splice F 
+# Fields: query acc.	reference acc.	% identity	not used	not used	not used	query start	query end	reference start	reference end	not used	not used	score	query strand	reference strand	query length	BTOP	num placements	not used	compartment	left overhang	right overhang	mate reference	mate ref. start	composite score
+ERR1630220.6993.1	2	100	0	0	0	4	28	25	1	0	99	25	plus	minus	43	25	1	-	1:0	AGC	GGCGGCGGGGGGGGG	-	-	25
+ERR1630220.42413.1	112	100	0	0	0	22	43	4	25	0	99	22	plus	plus	43	22	1	-	1:1	CTTGATGGCCTCTTCTGATGC	-	-	-	22
+ERR1630220.47494.1	112	100	0	0	0	21	43	4	26	0	99	23	plus	plus	43	23	1	-	1:2	CTTGATGGCCTCTTCTGATG	-	-	-	23
+ERR1630220.55686.1	2	100	0	0	0	4	28	25	1	0	99	25	plus	minus	43	25	1	-	1:3	AGC	GGCGGCGGGTGGGGG	-	-	25
+ERR1630220.136595.1	2	100	0	0	0	1	25	25	1	0	99	25	plus	minus	43	25	1	-	1:4	-	GGCGGCGGGGGGGGGCTG	-	-	25
+ERR1630220.168720.1	112	100	0	0	0	1	36	41	6	0	99	36	plus	minus	43	36	1	-	1:5	-	CTGTCTC	-	-	36
+ERR1630220.179590.1	112	100	0	0	0	1	31	34	4	0	99	31	plus	minus	43	31	1	-	1:6	-	CTTGATGGCCTC	-	-	31
+ERR1630220.189996.1	169	96.9697	0	0	0	11	43	1	33	0	99	28	plus	plus	43	14CG18	1	-	1:7	TTCCACCAGG	-	-	-	28
+ERR1630220.200026.1	2	97.2222	0	0	0	1	36	36	1	0	99	31	plus	minus	43	10TC25	1	-	1:8	-	GGCGGCG	-	-	31
+ERR1630220.208762.1	112	100	0	0	0	21	43	4	26	0	99	23	plus	plus	43	23	1	-	1:9	CTTGATGGCCTCTTCTGATG	-	-	-	23
+ERR1630220.225387.1	169	100	0	0	0	1	43	51	9	0	99	43	plus	minus	43	43	1	-	1:10	-	-	-	-	43
+ERR1630220.234030.1	112	100	0	0	0	1	32	35	4	0	99	32	plus	minus	43	32	1	-	1:11	-	CTTGATGGACC	-	-	32
+ERR1630220.288925.1	2	100	0	0	0	4	28	25	1	0	99	25	plus	minus	43	25	1	-	1:12	AGC	GGCGGCGGGTGGGGG	-	-	25
+ERR1630220.289807.1	112	100	0	0	0	1	29	51	23	0	99	29	plus	minus	43	29	1	-	1:13	-	TCTCTTATACACAT	-	-	29
+ERR1630220.313982.1	112	100	0	0	0	1	43	48	6	0	99	43	plus	minus	43	43	1	-	1:14	-	-	-	-	43

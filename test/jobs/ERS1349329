@@ -1,0 +1,3 @@
+#!/bin/bash
+esearch -db sra -query ERS1349329 | esummary | xtract -pattern DocumentSummary -ACC @acc -block DocumentSummary -element "&ACC" | cut -f 5 > acc/ERS1349329
+bash /home/ubuntu/test/PSST/psst_2.sh -s acc/ERS1349329 -n snp.txt -d out/ERS1349329 -e jlever@bcgsc.ca -t 1 -p 1
